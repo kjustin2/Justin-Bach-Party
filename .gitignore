@@ -1,0 +1,20 @@
+# Secrets and private planning notes
+.env
+.env.*
+!.env.example
+private/
+
+# Local editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log

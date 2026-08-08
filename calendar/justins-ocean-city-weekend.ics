@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Justin Bachelor Party//Ocean City Weekend 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:trip-20260910@justin-bachelor-party
+DTSTAMP:20260808T160000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260914
+SUMMARY:Justin's Ocean City Bachelor Weekend
+LOCATION:Berlin and Ocean City\, Maryland
+DESCRIPTION:Full plan: see ITINERARY.md in the private planning repository.
+END:VEVENT
+BEGIN:VEVENT
+UID:checkin-20260910@justin-bachelor-party
+DTSTAMP:20260808T160000Z
+DTSTART;TZID=America/New_York:20260910T160000
+DTEND;TZID=America/New_York:20260910T163000
+SUMMARY:Airbnb check-in
+LOCATION:8628 Saddlecreek Drive\, Berlin\, MD 21811
+DESCRIPTION:Keypad check-in. Four vehicles maximum.
+END:VEVENT
+BEGIN:VEVENT
+UID:golf-20260911@justin-bachelor-party
+DTSTAMP:20260808T160000Z
+DTSTART;TZID=America/New_York:20260911T073000
+DTEND;TZID=America/New_York:20260911T131500
+SUMMARY:Golf group — course and tee times TBD
+LOCATION:Berlin\, MD
+DESCRIPTION:Target consecutive tee times around 8:00-8:30 AM. Eagle's Landing recommended; Rum Pointe premium alternative. Meet everyone for lunch at 1:15 PM.
+END:VEVENT
+BEGIN:VEVENT
+UID:gokarts-20260911@justin-bachelor-party
+DTSTAMP:20260808T160000Z
+DTSTART;TZID=America/New_York:20260911T101500
+DTEND;TZID=America/New_York:20260911T131500
+SUMMARY:Non-golf group — Baja go-karts
+LOCATION:Baja Amusements\, Ocean City\, MD
+DESCRIPTION:Go-karts approximately 10:30 AM-12:30 PM. Meet everyone for lunch at 1:15 PM.
+END:VEVENT
+BEGIN:VEVENT
+UID:oceandowns-20260912@justin-bachelor-party
+DTSTAMP:20260808T160000Z
+DTSTART;TZID=America/New_York:20260912T103000
+DTEND;TZID=America/New_York:20260912T133000
+SUMMARY:Ocean Downs casino and Playbook lunch
+LOCATION:10218 Racetrack Road\, Berlin\, MD 21811
+DESCRIPTION:Whole-group casino and sportsbook block. Grouped rideshares. Set a gambling limit before arrival. Lunch reservation target: noon for 13.
+END:VEVENT
+BEGIN:VEVENT
+UID:tipsytikis-20260912@justin-bachelor-party
+DTSTAMP:20260808T160000Z
+DTSTART;TZID=America/New_York:20260912T171000
+DTEND;TZID=America/New_York:20260912T190000
+SUMMARY:Tipsy Tikis — meet at 5:10 PM
+LOCATION:45th St. Taphouse\, 4507 Coastal Highway\, Ocean City\, MD 21842
+DESCRIPTION:Boarding prep at 5:10 PM. Cruise 5:30-7:00 PM. Bring ID\, wet-friendly shoes\, a light layer\, and cash tip. Complete waiver before arrival.
+END:VEVENT
+BEGIN:VEVENT
+UID:taphouse-20260912@justin-bachelor-party
+DTSTAMP:20260808T160000Z
+DTSTART;TZID=America/New_York:20260912T191500
+DTEND;TZID=America/New_York:20260912T204500
+SUMMARY:Post-boat dinner at 45th Street Taphouse
+LOCATION:4507 Coastal Highway\, Ocean City\, MD 21842
+DESCRIPTION:Reservation target for 13. The non-boating attendee rejoins here.
+END:VEVENT
+BEGIN:VEVENT
+UID:seacrets-20260912@justin-bachelor-party
+DTSTAMP:20260808T160000Z
+DTSTART;TZID=America/New_York:20260912T210000
+DTEND;TZID=America/New_York:20260913T013000
+SUMMARY:Seacrets — firm bachelor-party night
+LOCATION:117 49th Street\, Ocean City\, MD 21842
+DESCRIPTION:Walk four blocks north from dinner using sidewalks and marked crossings. Grouped rideshares back to Berlin. Nobody drives after drinking.
+END:VEVENT
+BEGIN:VEVENT
+UID:checkout-20260913@justin-bachelor-party
+DTSTAMP:20260808T160000Z
+DTSTART;TZID=America/New_York:20260913T091500
+DTEND;TZID=America/New_York:20260913T100000
+SUMMARY:Final house sweep and Airbnb checkout
+LOCATION:8628 Saddlecreek Drive\, Berlin\, MD 21811
+DESCRIPTION:Trash\, dishes\, chargers\, fridge\, beds\, bathrooms\, and all four vehicles out by 10:00 AM.
+END:VEVENT
+END:VCALENDAR
