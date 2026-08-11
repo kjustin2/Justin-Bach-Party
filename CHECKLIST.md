@@ -3,10 +3,11 @@
 ## Do now
 
 - [ ] Tipsy Tikis: change the booking from 4 to 12 passengers.
-- [ ] Tipsy Tikis: choose which one of the 13 attendees is not boating.
+- [ ] Tipsy Tikis: confirm all 12 attendees on the final boat roster.
 - [ ] Tipsy Tikis: send every selected passenger the waiver.
 - [ ] Tipsy Tikis: Justin completes the BareBoat/Demise Charter Agreement.
 - [ ] Confirm all four carpool drivers and Thursday pickup windows.
+- [ ] Confirm Alex's Thursday pickup point and time near Media with Pennsylvania Car C; do not add a fifth vehicle.
 - [ ] Confirm Takoda's estimated Friday arrival time.
 - [ ] Choose a lodging/boat cost split and payment deadline.
 - [ ] Decide whether the group covers Justin's share.
@@ -16,9 +17,9 @@
 
 ## By August 20
 
-- [ ] Request Friday 1:15 PM lunch for 13 at The Shark on the Harbor.
-- [ ] Reserve Saturday noon lunch for 13 at The Playbook inside Ocean Downs.
-- [ ] Reserve Saturday 7:15 PM dinner near 45th Street for 12–13.
+- [ ] Request Friday 1:15 PM lunch for 12 at The Shark on the Harbor.
+- [ ] Reserve Saturday noon lunch for 12 at The Playbook inside Ocean Downs.
+- [ ] Reserve Saturday 7:15 PM dinner near 45th Street for 12.
 - [ ] Assign every alcohol, food, snack, ice, and supply row in `HOUSE-SUPPLIES.md`.
 - [ ] Send `HOUSE-RULES.md` to the group and get an acknowledgment.
 - [ ] Assign all beds and decide whether to bring an air mattress.

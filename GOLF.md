@@ -58,7 +58,6 @@ Do not book until the player count is firm. Tee times usually hold four golfers,
 | Nick Grunsby | TBD | TBD | TBD | TBD | No |
 | Alex Kramer | TBD | TBD | TBD | TBD | No |
 | Johnny Jordan | TBD | TBD | TBD | TBD | No |
-| Chris Ross | TBD | TBD | TBD | TBD | No |
 
 ## Non-golfer plan
 

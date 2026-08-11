@@ -64,7 +64,7 @@ DTSTART;TZID=America/New_York:20260912T103000
 DTEND;TZID=America/New_York:20260912T133000
 SUMMARY:Ocean Downs casino and Playbook lunch
 LOCATION:10218 Racetrack Road\, Berlin\, MD 21811
-DESCRIPTION:Whole-group casino and sportsbook block. Grouped rideshares. Set a gambling limit before arrival. Lunch reservation target: noon for 13.
+DESCRIPTION:Whole-group casino and sportsbook block. Grouped rideshares. Set a gambling limit before arrival. Lunch reservation target: noon for 12.
 END:VEVENT
 BEGIN:VEVENT
 UID:tipsytikis-20260912@justin-bachelor-party
@@ -82,7 +82,7 @@ DTSTART;TZID=America/New_York:20260912T191500
 DTEND;TZID=America/New_York:20260912T204500
 SUMMARY:Post-boat dinner at 45th Street Taphouse
 LOCATION:4507 Coastal Highway\, Ocean City\, MD 21842
-DESCRIPTION:Reservation target for 13. The non-boating attendee rejoins here.
+DESCRIPTION:Reservation target for 12. The full group can arrive together from the boat.
 END:VEVENT
 BEGIN:VEVENT
 UID:seacrets-20260912@justin-bachelor-party

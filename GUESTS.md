@@ -1,6 +1,6 @@
 # Guest and transportation tracker
 
-Current headcount: **13 attending including Justin**, **2 declined**.
+Current headcount: **12 attending including Justin**, **3 declined**.
 
 ## Attendance
 
@@ -9,7 +9,7 @@ Current headcount: **13 attending including Justin**, **2 declined**.
 | Justin Kramer | Attending | Ashburn, VA | Host; Thursday arrival | DMV Car A |
 | Joe Frazier | Declined | — | Sports tournament | — |
 | Christopher Pace | Declined | — | NASCAR race | — |
-| Jesus Aguilar | Attending | Muncy, PA | Thursday arrival | Muncy Car C |
+| Jesus Aguilar | Attending | Muncy, PA | Thursday arrival | Pennsylvania Car C |
 | Takoda Moyer | Attending | Muncy, PA | Cannot take all days off; arriving Friday after work | Muncy Car D |
 | Brandon Toops | Attending | Tysons Corner, VA | Thursday arrival | DMV Car A |
 | Nick Pace | Attending | Fairfax, VA | Thursday arrival | DMV Car B |
@@ -17,27 +17,27 @@ Current headcount: **13 attending including Justin**, **2 declined**.
 | Sanjiv Jay | Attending | Tysons Corner, VA | Thursday arrival | DMV Car A |
 | Eric Tucket | Attending | Fairfax, VA | Thursday arrival | DMV Car B |
 | Korrey Sidler | Attending | Arlington, VA | Thursday arrival | DMV Car A |
-| Nick Grunsby | Attending | Muncy, PA | Thursday arrival | Muncy Car C |
-| Alex Kramer | Attending | Muncy, PA | Thursday arrival | Muncy Car C |
+| Nick Grunsby | Attending | Muncy, PA | Thursday arrival | Pennsylvania Car C |
+| Alex Kramer | Attending | Media, PA (near Philadelphia) | Thursday arrival; pickup point/time TBD | Pennsylvania Car C |
 | Johnny Jordan | Attending | Washington, DC | Thursday arrival | DMV Car B |
-| Chris Ross | Attending | Muncy, PA | Thursday arrival | Muncy Car C |
+| Chris Ross | Declined | — | Unable to attend | — |
 
 ## Draft four-car plan
 
-The Airbnb permits four vehicles. This plan fits exactly, but drivers and pickup points still need confirmation.
+The Airbnb permits four vehicles. This plan fits exactly, but drivers and pickup points still need confirmation. Alex should not bring a separate fifth vehicle; the Thursday Pennsylvania car should collect him at an agreed pickup point near Media on its way south.
 
 | Car | Proposed riders | Arrival | Driver | Confirmed? |
 | --- | --- | --- | --- | --- |
 | DMV A | Justin, Brandon, Sanjiv, Korrey | Thursday | TBD | No |
 | DMV B | Nick Pace, Connor, Eric, Johnny | Thursday | TBD | No |
-| Muncy C | Jesus, Nick Grunsby, Alex, Chris Ross | Thursday | TBD | No |
+| Pennsylvania C | Jesus, Nick Grunsby, Alex | Thursday; Media pickup en route | TBD | No |
 | Muncy D | Takoda | Friday after work | Takoda / TBD | No |
 
 Do not use any of these cars for a drinking night unless a sober driver explicitly volunteers. For Friday and Saturday nightlife, use grouped rideshares to Ocean City, then the Beach Bus while on the island.
 
 ## Boat roster
 
-Tipsy Tikis allows **12 passengers maximum**. The group currently has 13 attendees, so this roster requires an explicit decision.
+Tipsy Tikis allows **12 passengers maximum**. The current group fits exactly, but every attendee still needs to confirm and complete the waiver.
 
 | Person | Boat status | Waiver |
 | --- | --- | --- |
@@ -53,9 +53,8 @@ Tipsy Tikis allows **12 passengers maximum**. The group currently has 13 attende
 | Nick Grunsby | Tentative | Not confirmed |
 | Alex Kramer | Tentative | Not confirmed |
 | Johnny Jordan | Tentative | Not confirmed |
-| Chris Ross | Tentative | Not confirmed |
 
-**Decision needed:** mark 12 as confirmed and one as not boating. Every passenger must sign the liability waiver; Justin must also complete the BareBoat/Demise Charter Agreement.
+**Decision needed:** confirm all 12 attendees. Every passenger must sign the liability waiver; Justin must also complete the BareBoat/Demise Charter Agreement.
 
 ## Sleeping assignments
 

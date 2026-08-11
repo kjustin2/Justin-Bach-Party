@@ -10,7 +10,7 @@ This repository is the planning hub for Justin Kramer's bachelor weekend. It kee
 
 | Item | Current plan |
 | --- | --- |
-| Group | Justin + 12 confirmed guests; 2 declined |
+| Group | Justin + 11 confirmed guests; 3 declined |
 | Stay | Booked home in Berlin; check-in Thu 4:00 PM, checkout Sun 10:00 AM |
 | House capacity | 14 guests, 8 beds, 4 bedrooms, 3.5 baths, 4 vehicles |
 | Friday daytime | Golfers play; non-golfers race go-karts; group reunites for lunch |
@@ -36,13 +36,13 @@ This repository is the planning hub for Justin Kramer's bachelor weekend. It kee
 ## Urgent decisions
 
 - [ ] Call/text Tipsy Tikis to add up to 8 passengers. The confirmation currently covers **4 people**, not the full group.
-- [ ] Choose the 12-person boat roster; the confirmed group is 13 including Justin, but the boat maximum is 12.
-- [ ] Confirm all 13 overnight guests and the four-car plan in [GUESTS.md](GUESTS.md).
+- [ ] Confirm the 12-person boat roster and send every passenger the waiver.
+- [ ] Confirm all 12 overnight guests and the four-car plan in [GUESTS.md](GUESTS.md), including Alex's Media pickup.
 - [ ] Confirm Friday's golf/go-kart split and the BikeFest fireworks plan.
 - [ ] Count Friday golfers and reserve consecutive morning tee times.
 - [ ] Confirm the Friday non-golf group for Baja go-karts.
-- [ ] Reserve Saturday lunch for 13 at The Playbook inside Ocean Downs.
-- [ ] Reserve Saturday post-boat dinner for 12–13 people near 45th Street.
+- [ ] Reserve Saturday lunch for 12 at The Playbook inside Ocean Downs.
+- [ ] Reserve Saturday post-boat dinner for 12 people near 45th Street.
 - [ ] Assign every row in [HOUSE-SUPPLIES.md](HOUSE-SUPPLIES.md).
 - [ ] Set a payment split and collection deadline.
 

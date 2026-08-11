@@ -22,7 +22,7 @@ This plan keeps one real anchor per day, leaves room for a large group to move s
 | 7:30 AM | Golfers depart | Target consecutive tee times around 8:00–8:30 AM. Eagle's Landing is the recommended value/group course; Rum Pointe is the premium option. |
 | 9:00 AM | Non-golfer breakfast | No need to wake with the golfers. |
 | 10:30 AM–12:30 PM | **Non-golf option: Baja go-karts** | One- or two-hour wristband; optional mini golf. The beach/Boardwalk remains a low-key alternative. |
-| 1:15 PM | **Whole group lunch at The Shark on the Harbor** | Fresh local seafood and from-scratch food. Request a 13-person reservation; golfers and kart group meet here. |
+| 1:15 PM | **Whole group lunch at The Shark on the Harbor** | Fresh local seafood and from-scratch food. Request a 12-person reservation; golfers and kart group meet here. |
 | 3:15 PM | Return to the house and reset | Shower, nap, hydrate, and leave space for Takoda's late arrival. |
 | 4:30 PM | Group rideshares to downtown Ocean City | BikeFest weekend: build in extra time and avoid parking multiple cars. |
 | 5:30 PM | Drinks / light food near the Boardwalk and Inlet | Lunch is intentionally substantial; grab something light before the show. |
@@ -38,13 +38,13 @@ This plan keeps one real anchor per day, leaves room for a large group to move s
 | --- | --- | --- |
 | 9:30 AM | Breakfast at the house | Hydrate early. Saturday is the biggest drinking day. |
 | 10:30 AM | **Grouped rideshares to Ocean Downs Casino** | Casino, slots, electronic games, and sportsbook. Bring ID and set personal gambling limits before arriving. Cars stay at the house because lunch includes drink specials. |
-| 12:00–1:15 PM | **Lunch at The Playbook Sports Bar** | Inside the casino; Saturday happy-hour pricing is currently all day. Reserve for 13. Keep drinking controlled so every boat passenger can board. |
+| 12:00–1:15 PM | **Lunch at The Playbook Sports Bar** | Inside the casino; Saturday happy-hour pricing is currently all day. Reserve for 12. Keep drinking controlled so every boat passenger can board. |
 | 1:30 PM | Leave Ocean Downs | Cash out and leave together. No chasing losses or “one last bet.” |
 | 1:45–3:45 PM | Return, shower, hydrate, boat prep | IDs, signed waivers, wet-friendly shoes, light layer, cash tip. |
 | **4:05 PM** | **Rideshares leave the Airbnb** | The dock asks for arrival 15–20 minutes early. This buffer accounts for BikeFest traffic. |
 | **5:10 PM** | **Meet at 45th St. Taphouse dock** | All 12 boat passengers present, sober enough to board, IDs ready. |
 | **5:30–7:00 PM** | **Tipsy Tikis private cruise — booked** | Alcohol and non-alcoholic drinks included. No bathroom onboard. |
-| 7:15–8:45 PM | **Dinner at 45th Street Taphouse** | Directly at the dock, with seafood, burgers, wings, crab dishes, cocktails, and bay views. Reserve for 13; the non-boating attendee rejoins here. |
+| 7:15–8:45 PM | **Dinner at 45th Street Taphouse** | Directly at the dock, with seafood, burgers, wings, crab dishes, cocktails, and bay views. Reserve for 12. |
 | 9:00 PM onward | **Seacrets — firm plan** | Four blocks north at 49th Street. Eat first, then make this the main nightlife event. Use sidewalks and marked crossings. |
 | Late | Grouped rideshares back to Berlin | Keep the four parked cars at the rental. |
 
@@ -63,7 +63,7 @@ This plan keeps one real anchor per day, leaves room for a large group to move s
 Replace golf/go-karts with one or two reservations:
 
 1. Ocean City Axe Throwing — one-hour sessions, currently $30/person.
-2. Two simultaneous escape rooms for a 13-person group.
+2. Two simultaneous escape rooms for a 12-person group.
 3. Move the Ocean Downs block to Friday and use the house pool table/theater for the remaining downtime, while following the no-parties rule.
 
 The Tipsy Tikis boat normally sails rain or shine under a covered roof. Only the captain decides whether weather is unsafe; do not assume rain means cancellation.

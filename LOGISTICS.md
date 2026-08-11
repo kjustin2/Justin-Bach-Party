@@ -18,7 +18,7 @@
 
 ### Useful house facts
 
-- Capacity: 14 guests; current plan is 13 including Justin.
+- Capacity: 14 guests; current plan is 12 including Justin.
 - Layout: 4 bedrooms, 8 beds, 3.5 baths, 4,200 sq ft.
 - Parking: driveway for **4 vehicles**. The proposed carpool plan uses all four spaces.
 - Kitchen: gas cooktop, double oven, refrigerator, microwave, blender, drip and French-press coffee makers, dishwasher, dishware, spices.
@@ -41,15 +41,15 @@ The reservation is large enough for the group, but the property must remain a lo
 
 **Current payment:** $318 total for **4 passengers**
 
-### Critical capacity issue
+### Booking expansion needed
 
-The email calls the four $75 entries “Private charter” and shows the $318 total as paid. Tipsy Tikis' current FAQ says $300 covers up to four passengers, each additional passenger is $75, and the hard maximum is 12 passengers. This is therefore a four-person booking, not a deposit that automatically holds space for 13.
+The email calls the four $75 entries “Private charter” and shows the $318 total as paid. Tipsy Tikis' current FAQ says $300 covers up to four passengers, each additional passenger is $75, and the hard maximum is 12 passengers. This is therefore a four-person booking, not a deposit that automatically covers the full group.
 
-- Current group: 13
+- Current group: 12
 - Boat maximum: 12
 - Currently paid passenger count: 4
 - Seats to add to reach maximum: 8
-- One attendee must skip the boat
+- Current group fits the boat maximum exactly
 
 Estimated full 12-person total: **about $954** if the same 6% charge applies (`$900 + $54`). Estimated remaining charge: **about $636**. Confirm the real amount directly with Tipsy Tikis before collecting money.
 
@@ -89,7 +89,7 @@ These are planning figures, not final payment requests.
 
 | Item | Total | Even split example |
 | --- | ---: | ---: |
-| Airbnb already paid | $2,505.44 | $192.73 each across 13 |
+| Airbnb already paid | $2,505.44 | $208.79 each across 12 |
 | Boat, estimated 12-person final | ~$954.00 | ~$79.50 per boat passenger |
 | Boat already paid | $318.00 | Paid by Justin |
 | Boat estimated amount remaining | ~$636.00 | Confirm before collecting |

@@ -1,6 +1,6 @@
 # House food, drinks, and supply assignments
 
-Quantities are starting estimates for 13 adults across three nights. Alcohol quantities are a shopping ceiling, not a challenge. The group will also drink at the casino, boat, restaurants, and Seacrets, so buy from actual preferences and keep receipts.
+Quantities are starting estimates for 12 adults across three nights. Alcohol quantities are a shopping ceiling, not a challenge. The group will also drink at the casino, boat, restaurants, and Seacrets, so buy from actual preferences and keep receipts.
 
 ## Ownership by car
 
@@ -10,7 +10,7 @@ This spreads the load and fits the four-car parking plan.
 | --- | --- | --- | --- |
 | DMV Car A | Beer, seltzers, coolers, Thursday ice | TBD | No |
 | DMV Car B | Liquor, mixers, cups, bar tools | TBD | No |
-| Muncy Car C | Water, electrolytes, snacks, breakfast shelf items | TBD | No |
+| Pennsylvania Car C | Water, electrolytes, snacks, breakfast shelf items | TBD | No |
 | Muncy Car D / Takoda | Friday restock: ice, water, anything forgotten | Takoda / TBD | No |
 | Local grocery run | Cold food, grill dinner, breakfast meat/eggs, fruit | TBD | No |
 
@@ -38,10 +38,10 @@ The tiki cruise already includes beer, wine, spirits, soft drinks, and water. Do
 
 | Item | Starting quantity | Owner | Packed / bought |
 | --- | ---: | --- | --- |
-| Bottled water | 3 cases | Muncy Car C | No |
-| Electrolyte drinks or powder | 24 servings | Muncy Car C | No |
+| Bottled water | 3 cases | Pennsylvania Car C | No |
+| Electrolyte drinks or powder | 24 servings | Pennsylvania Car C | No |
 | Ice | 6–8 bags Thursday; restock daily | DMV Car A / Takoda | No |
-| Coffee | Enough for 3 mornings / 13 people | Muncy Car C | No |
+| Coffee | Enough for 3 mornings / 12 people | Pennsylvania Car C | No |
 | Coffee creamer and sugar | 1–2 each | Local grocery run | No |
 
 ## Thursday grill dinner
@@ -62,7 +62,7 @@ The tiki cruise already includes beer, wine, spirits, soft drinks, and water. Do
 | --- | ---: | --- | --- |
 | Eggs | 4 dozen | Local grocery run | No |
 | Bacon / sausage | 4–5 lb total | Local grocery run | No |
-| Bagels / bread | 24 bagels + 2 loaves | Muncy Car C | No |
+| Bagels / bread | 24 bagels + 2 loaves | Pennsylvania Car C | No |
 | Cream cheese / butter / jam | 2 cream cheese + 1 each | Local grocery run | No |
 | Fruit | Bananas, apples, berries | Local grocery run | No |
 | Frozen breakfast potatoes | 2 large bags | Local grocery run | No |
@@ -73,10 +73,10 @@ Friday lunch, Saturday casino lunch, Saturday post-boat dinner, and Sunday optio
 
 | Item | Starting quantity | Owner | Packed / bought |
 | --- | ---: | --- | --- |
-| Family-size chips / pretzels | 8 assorted bags | Muncy Car C | No |
-| Salsa, queso, hummus | 2–3 tubs/jars | Muncy Car C | No |
-| Nuts / trail mix | 2 large containers | Muncy Car C | No |
-| Granola / protein bars | 24 | Muncy Car C | No |
+| Family-size chips / pretzels | 8 assorted bags | Pennsylvania Car C | No |
+| Salsa, queso, hummus | 2–3 tubs/jars | Pennsylvania Car C | No |
+| Nuts / trail mix | 2 large containers | Pennsylvania Car C | No |
+| Granola / protein bars | 24 | Pennsylvania Car C | No |
 | Frozen pizzas | 4–5 | Local grocery run | No |
 | Easy sandwich supplies | 2 loaves + meat/cheese | Local grocery run | No |
 

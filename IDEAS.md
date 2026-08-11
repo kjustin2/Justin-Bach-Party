@@ -22,7 +22,7 @@ Count golfers first, then book consecutive Friday morning tee times and send eve
 
 ### Two-room escape-room race
 
-Split into two teams of 6–7, start rooms at the same time, and compare completion time. This is better than squeezing all 13 into one room. Confirm room capacities before paying.
+Split into two teams of 6, start rooms at the same time, and compare completion time. This is better than squeezing all 12 into one room. Confirm room capacities before paying.
 
 ### Ocean Downs details
 
@@ -41,6 +41,6 @@ Bring a football, Spikeball, and a simple team challenge. Keep alcohol off the b
 ## Ideas intentionally not placed in the itinerary
 
 - Another boat or fishing charter: duplicates the booked tiki cruise and adds weather risk.
-- A full golf round: too long for a mixed 13-person group unless nearly everyone opts in.
+- A full golf round: too long for a mixed 12-person group unless nearly everyone opts in.
 - Live racing at Ocean Downs: the published 2026 race season ends before the trip.
-- Too many ticketed nightlife events: BikeFest traffic and 13-person movement already add friction.
+- Too many ticketed nightlife events: BikeFest traffic and 12-person movement already add friction.
