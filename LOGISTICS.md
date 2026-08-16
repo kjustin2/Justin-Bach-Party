@@ -18,7 +18,7 @@
 
 ### Useful house facts
 
-- Capacity: 14 guests; current plan is 12 including Justin.
+- Capacity: 14 guests; the peak plan is 13 on Friday night, dropping to 12 after Joe leaves Saturday.
 - Layout: 4 bedrooms, 8 beds, 3.5 baths, 4,200 sq ft.
 - Parking: driveway for **4 vehicles**. The proposed carpool plan uses all four spaces.
 - Kitchen: gas cooktop, double oven, refrigerator, microwave, blender, drip and French-press coffee makers, dishwasher, dishware, spices.
@@ -45,11 +45,11 @@ The reservation is large enough for the group, but the property must remain a lo
 
 The email calls the four $75 entries “Private charter” and shows the $318 total as paid. Tipsy Tikis' current FAQ says $300 covers up to four passengers, each additional passenger is $75, and the hard maximum is 12 passengers. This is therefore a four-person booking, not a deposit that automatically covers the full group.
 
-- Current group: 12
+- Current Saturday boat roster: 12 (Joe leaves Saturday and is not on the roster)
 - Boat maximum: 12
 - Currently paid passenger count: 4
 - Seats to add to reach maximum: 8
-- Current group fits the boat maximum exactly
+- Current Saturday roster fits the boat maximum exactly
 
 Estimated full 12-person total: **about $954** if the same 6% charge applies (`$900 + $54`). Estimated remaining charge: **about $636**. Confirm the real amount directly with Tipsy Tikis before collecting money.
 
@@ -89,7 +89,7 @@ These are planning figures, not final payment requests.
 
 | Item | Total | Even split example |
 | --- | ---: | ---: |
-| Airbnb already paid | $2,505.44 | $208.79 each across 12 |
+| Airbnb already paid | $2,505.44 | $192.73 each as a simple 13-person example; settle rounding separately |
 | Boat, estimated 12-person final | ~$954.00 | ~$79.50 per boat passenger |
 | Boat already paid | $318.00 | Paid by Justin |
 | Boat estimated amount remaining | ~$636.00 | Confirm before collecting |
@@ -97,4 +97,4 @@ These are planning figures, not final payment requests.
 | Baja go-karts | $45 / $58 per person | 1-hour / 2-hour wristband |
 | Ocean City Beach Bus | $4 per person/day | Ride-all-day |
 
-Still TBD: groceries, dinners, rideshares, crew tip, activity choice, whether Takoda's partial stay is prorated, and whether Justin's share is covered by the group.
+Still TBD: groceries, dinners, rideshares, crew tip, whether Joe's and Takoda's partial stays are prorated, and whether Justin's share is covered by the group.

@@ -1,6 +1,6 @@
 # Recommended itinerary
 
-This plan keeps one real anchor per day, leaves room for a large group to move slowly, and works around BikeFest traffic and the fixed Saturday boat booking.
+This plan keeps one real anchor per day, leaves room for a large group to move slowly, and works around BikeFest traffic and the fixed Saturday boat booking. The weekend theme is **Casino Pirates**: small wearable props, no group shirts or intrusive/weapon-like items.
 
 ## Thursday, September 10 — arrive and settle in
 
@@ -11,7 +11,7 @@ This plan keeps one real anchor per day, leaves room for a large group to move s
 | 4:00 PM | Airbnb check-in | Keypad entry. Park only the four assigned vehicles. |
 | 4:00–6:30 PM | Rooms, unpack, pool table, fire up the grill | Assign beds before drinks. Keep the home a quiet lodging base. |
 | 6:30–8:00 PM | Grill dinner at the house | Lowest-friction arrival meal. |
-| 8:00 PM onward | **Inside-only party block:** home theater, pool tournament, cards, music, and drinks | The yard, driveway, deck, and fire pit become quiet zones. No outside guests; close doors/windows when music is on. |
+| 8:00 PM onward | **Inside-only party block:** home theater, pool tournament, cards, bingo, music, and drinks | Hand out bingo cards. The yard, driveway, deck, and fire pit become quiet zones. No outside guests; close doors/windows when music is on. |
 | Optional | Seacrets: Red Not Chili Peppers | Ticketed Sep 10 show. Do this only if most people arrive early and sober transportation is arranged. |
 
 ## Friday, September 11 — golf, go-karts, and BikeFest spectacle
@@ -19,10 +19,10 @@ This plan keeps one real anchor per day, leaves room for a large group to move s
 | Time | Plan | Notes |
 | --- | --- | --- |
 | 6:45 AM | Golfer breakfast | Fast breakfast, clubs and rides loaded. |
-| 7:30 AM | Golfers depart | Target consecutive tee times around 8:00–8:30 AM. Eagle's Landing is the recommended value/group course; Rum Pointe is the premium option. |
+| 7:30 AM | Golfers depart | Alex is helping book 3 consecutive tee times around 8:00-8:30 AM for 10 golfers. |
 | 9:00 AM | Non-golfer breakfast | No need to wake with the golfers. |
-| 10:30 AM–12:30 PM | **Non-golf option: Baja go-karts** | One- or two-hour wristband; optional mini golf. The beach/Boardwalk remains a low-key alternative. |
-| 1:15 PM | **Whole group lunch at The Shark on the Harbor** | Fresh local seafood and from-scratch food. Request a 12-person reservation; golfers and kart group meet here. |
+| 10:30 AM-12:30 PM | **Korrey and Nick Grunsby's non-golf option** | Baja go-karts, beach/Boardwalk, or another low-key plan. Takoda is still traveling. |
+| 1:15 PM | **Friday group lunch at The Shark on the Harbor** | Alex requests 12 seats: Joe is present and Takoda arrives Friday night. |
 | 3:15 PM | Return to the house and reset | Shower, nap, hydrate, and leave space for Takoda's late arrival. |
 | 4:30 PM | Group rideshares to downtown Ocean City | BikeFest weekend: build in extra time and avoid parking multiple cars. |
 | 5:30 PM | Drinks / light food near the Boardwalk and Inlet | Lunch is intentionally substantial; grab something light before the show. |
@@ -30,13 +30,15 @@ This plan keeps one real anchor per day, leaves room for a large group to move s
 | 8:00 PM onward | Boardwalk / BikeFest music, then optional Seacrets | Seacrets lists Black Hole Sons 9:00 PM–1:30 AM. Take the $4 Beach Bus from downtown toward 49th St.; do not walk the full distance. |
 | Late | Grouped rideshares back to Berlin | Nobody drives from Ocean City after drinking. |
 
-**Takoda:** after-work arrival from Muncy will likely miss the afternoon and may miss the Inlet show. Car D should go directly to the Airbnb, self-check in, and join later only if timing and sober transportation make sense.
+**Takoda:** arrives from Muncy Friday night and is not golfing. Car D goes directly to the Airbnb and joins the group later only if timing and sober transportation make sense.
 
 ## Saturday, September 12 — casino, tiki cruise, and Seacrets
 
+Joe leaves Saturday and is not on the 12-person boat/night roster. Confirm his departure time and ride so he does not strand a carpool.
+
 | Time | Plan | Notes |
 | --- | --- | --- |
-| 9:30 AM | Breakfast at the house | Hydrate early. Saturday is the biggest drinking day. |
+| 9:30 AM | Breakfast at the house / Joe departure | Hydrate early. Confirm Joe's ride and that all four remaining cars are covered. |
 | 10:30 AM | **Grouped rideshares to Ocean Downs Casino** | Casino, slots, electronic games, and sportsbook. Bring ID and set personal gambling limits before arriving. Cars stay at the house because lunch includes drink specials. |
 | 12:00–1:15 PM | **Lunch at The Playbook Sports Bar** | Inside the casino; Saturday happy-hour pricing is currently all day. Reserve for 12. Keep drinking controlled so every boat passenger can board. |
 | 1:30 PM | Leave Ocean Downs | Cash out and leave together. No chasing losses or “one last bet.” |
@@ -60,7 +62,7 @@ This plan keeps one real anchor per day, leaves room for a large group to move s
 
 ## Rain plan
 
-Replace golf/go-karts with one or two reservations:
+If weather cancels golf, replace it with one or two reservations:
 
 1. Ocean City Axe Throwing — one-hour sessions, currently $30/person.
 2. Two simultaneous escape rooms for a 12-person group.

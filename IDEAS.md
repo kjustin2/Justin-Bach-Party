@@ -14,15 +14,19 @@ Research checked August 8, 2026. Prices and schedules can change; recheck before
 | 6 | Assateague Island | Close to the Airbnb, scenic, inexpensive, and available for early arrivals or non-golfers | Maryland 7-day vehicle pass listed at $25; park is open 24 hours | Optional Friday morning |
 | 7 | Axe throwing | Strong rain backup and group competition | OC Battle Axe lists 4:00–9:00 PM daily and $30/person/hour | Rain plan |
 
+## Theme
+
+**Casino Pirates** is the weekend theme. Use small wearable bandanas, pins, beads, or similar props; do not order group shirts or bring weapon-like/oversized props. See [THEME.md](THEME.md).
+
 ## Recommended choice
 
-Count golfers first, then book consecutive Friday morning tee times and send everyone else to Baja. Make Ocean Downs the all-group Saturday block, followed by the booked boat, dinner at 45th Street Taphouse, and Seacrets. The beach stays optional—easy to add near the Boardwalk and bars, but not important enough to displace golf, casino, or the cruise.
+Friday morning golf is chosen. Alex should finalize the 10 golfers and book three consecutive tee times; Korrey and Nick Grunsby take the non-golf track while Takoda arrives Friday night. Make Ocean Downs the 12-person Saturday block after Joe leaves, followed by the booked boat, dinner at 45th Street Taphouse, and Seacrets.
 
 ## Other viable options
 
 ### Two-room escape-room race
 
-Split into two teams of 6, start rooms at the same time, and compare completion time. This is better than squeezing all 12 into one room. Confirm room capacities before paying.
+Split the Friday daytime group into two rooms, start at the same time, and compare completion time. Confirm capacities before paying.
 
 ### Ocean Downs details
 
@@ -41,6 +45,6 @@ Bring a football, Spikeball, and a simple team challenge. Keep alcohol off the b
 ## Ideas intentionally not placed in the itinerary
 
 - Another boat or fishing charter: duplicates the booked tiki cruise and adds weather risk.
-- A full golf round: too long for a mixed 12-person group unless nearly everyone opts in.
+- A second major Friday activity for the whole group: golf already owns the morning, so keep the non-golf track simple.
 - Live racing at Ocean Downs: the published 2026 race season ends before the trip.
 - Too many ticketed nightlife events: BikeFest traffic and 12-person movement already add friction.

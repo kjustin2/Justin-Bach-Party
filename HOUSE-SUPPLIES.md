@@ -1,6 +1,6 @@
 # House food, drinks, and supply assignments
 
-Quantities are starting estimates for 12 adults across three nights. Alcohol quantities are a shopping ceiling, not a challenge. The group will also drink at the casino, boat, restaurants, and Seacrets, so buy from actual preferences and keep receipts.
+Quantities are starting estimates for 12 adults Thursday, a peak of 13 Friday night, and 12 after Joe leaves Saturday. Alcohol quantities are a shopping ceiling, not a challenge. The group will also drink at the casino, boat, restaurants, and Seacrets, so buy from actual preferences and keep receipts.
 
 ## Ownership by car
 
@@ -11,7 +11,7 @@ This spreads the load and fits the four-car parking plan.
 | DMV Car A | Beer, seltzers, coolers, Thursday ice | TBD | No |
 | DMV Car B | Liquor, mixers, cups, bar tools | TBD | No |
 | Pennsylvania Car C | Water, electrolytes, snacks, breakfast shelf items | TBD | No |
-| Muncy Car D / Takoda | Friday restock: ice, water, anything forgotten | Takoda / TBD | No |
+| Muncy Car D / Takoda | Friday-night or Saturday-morning restock: ice, water, anything forgotten | Takoda / TBD | No |
 | Local grocery run | Cold food, grill dinner, breakfast meat/eggs, fruit | TBD | No |
 
 ## Alcohol and bar
@@ -41,7 +41,7 @@ The tiki cruise already includes beer, wine, spirits, soft drinks, and water. Do
 | Bottled water | 3 cases | Pennsylvania Car C | No |
 | Electrolyte drinks or powder | 24 servings | Pennsylvania Car C | No |
 | Ice | 6–8 bags Thursday; restock daily | DMV Car A / Takoda | No |
-| Coffee | Enough for 3 mornings / 12 people | Pennsylvania Car C | No |
+| Coffee | Enough for 3 mornings / up to 13 people | Pennsylvania Car C | No |
 | Coffee creamer and sugar | 1–2 each | Local grocery run | No |
 
 ## Thursday grill dinner
@@ -95,8 +95,19 @@ The Airbnb lists trash bags, paper towels, dishware, dishwasher, and laundry det
 | Phone charging station / power strips | 2 | TBD | No |
 | Cards / poker chips / pool-tournament bracket | 1 set each | TBD | No |
 
+## Casino Pirates and bingo
+
+The full prop guidance is in [THEME.md](THEME.md). Keep every item small, wearable, and easy to remove.
+
+| Item | Quantity | Owner | Packed / bought |
+| --- | ---: | --- | --- |
+| Casino Pirates wearable prop sets | 15 | TBD | No |
+| Zip pouch for removed/unused props | 1 | TBD | No |
+| Printed bingo cards | 15 | TBD | No |
+| Pens or markers for bingo | 15 | TBD | No |
+
 ## Preference survey
 
 Paste this into the group chat:
 
-> Reply with: (1) your top two drinks, (2) any food allergy, (3) golf / go-karts / beach-bars for Friday, (4) whether you are bringing golf clubs, and (5) one snack you actually want. Deadline: **August 16**.
+> Reply with: (1) your top two drinks, (2) any food allergy, (3) whether your golf RSVP is still correct, (4) whether you are bringing clubs or need rentals, and (5) one snack you actually want. Reply as soon as possible so Alex can book golf and restaurants.

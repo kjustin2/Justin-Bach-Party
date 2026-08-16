@@ -1,5 +1,7 @@
 # Justin's Official Drinking Team Shirt Variants
 
+> **Archived concept:** the current plan is Casino Pirates wearable props, not group shirts. See [`../THEME.md`](../THEME.md). These files remain only as old design work and are not a purchasing task.
+
 `Official Drinking Team` is the only retained shirt direction. Every variant uses a small role-specific front and a larger bachelor-weekend design on the back. Justin receives a contrasting shirt color so he stands out in photos.
 
 ## 01 - Classic Drinking Team

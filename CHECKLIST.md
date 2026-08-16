@@ -3,23 +3,27 @@
 ## Do now
 
 - [ ] Tipsy Tikis: change the booking from 4 to 12 passengers.
-- [ ] Tipsy Tikis: confirm all 12 attendees on the final boat roster.
+- [ ] Tipsy Tikis: confirm all 12 passengers on the final boat roster.
 - [ ] Tipsy Tikis: send every selected passenger the waiver.
 - [ ] Tipsy Tikis: Justin completes the BareBoat/Demise Charter Agreement.
 - [ ] Confirm all four carpool drivers and Thursday pickup windows.
 - [ ] Confirm Alex's Thursday pickup point and time near Media with Pennsylvania Car C; do not add a fifth vehicle.
-- [ ] Confirm Takoda's estimated Friday arrival time.
+- [ ] Confirm Joe's Thursday Fairfax pickup plus his Saturday departure time and ride.
+- [ ] Confirm DMV Car A can hold five people plus luggage; Joe cannot strand the remaining riders when he leaves.
+- [ ] Confirm Takoda's Friday-night arrival time.
 - [ ] Choose a lodging/boat cost split and payment deadline.
 - [ ] Decide whether the group covers Justin's share.
-- [ ] Get every attendee's Friday choice: golf, go-karts, or low-key beach/bar group.
-- [ ] Count golfers, choose Eagle's Landing or Rum Pointe, and reserve consecutive tee times.
-- [ ] Record who needs rental clubs in `GOLF.md`.
+- [ ] Alex: collect clubs/rental needs from the 10 golfers.
+- [ ] Alex: choose Eagle's Landing or Rum Pointe with Justin and reserve 3 consecutive Friday morning tee times.
+- [ ] Add Takoda's phone number to `CONTACTS.md`.
 
 ## By August 20
 
-- [ ] Request Friday 1:15 PM lunch for 12 at The Shark on the Harbor.
-- [ ] Reserve Saturday noon lunch for 12 at The Playbook inside Ocean Downs.
-- [ ] Reserve Saturday 7:15 PM dinner near 45th Street for 12.
+- [ ] Alex: request Friday 1:15 PM lunch for 12 at The Shark on the Harbor.
+- [ ] Alex: reserve Saturday noon lunch for 12 at The Playbook inside Ocean Downs.
+- [ ] Alex: reserve Saturday 7:15 PM dinner near 45th Street for 12.
+- [ ] Assign and buy the small wearable Casino Pirates prop kit in `THEME.md`; no group shirts.
+- [ ] Print 15 bingo cards: 13 attendees plus 2 spares.
 - [ ] Assign every alcohol, food, snack, ice, and supply row in `HOUSE-SUPPLIES.md`.
 - [ ] Send `HOUSE-RULES.md` to the group and get an acknowledgment.
 - [ ] Assign all beds and decide whether to bring an air mattress.
@@ -51,6 +55,7 @@
 - [ ] Phone charger
 - [ ] Cash for crew tip
 - [ ] Shared-room sleep gear / earplugs
+- [ ] Assigned small Casino Pirates props (nothing weapon-like, oversized, or intrusive)
 
 ## Checkout owner list
 
