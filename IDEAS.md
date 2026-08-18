@@ -20,7 +20,7 @@ Research checked August 8, 2026. Prices and schedules can change; recheck before
 
 ## Recommended choice
 
-Friday morning nine-hole golf is chosen. Alex should finalize the 10 golfers and book three consecutive advance nine-hole tee times; Korrey and Nick Grunsby choose their non-golf track through Justin's poll while Takoda arrives Friday night. Make Ocean Downs the 12-person Saturday block after Joe leaves, followed by the booked boat, dinner at 45th Street Taphouse, and Seacrets.
+Friday morning nine-hole golf is chosen. Alex should finalize the 9 golfers and book three consecutive advance nine-hole tee times; Korrey and Nick Grunsby choose their non-golf track through Justin's poll while Takoda arrives Friday night. Make Ocean Downs the 11-person Saturday block after Joe leaves, followed by the booked boat, dinner at 45th Street Taphouse, and Seacrets.
 
 ## Other viable options
 
@@ -47,4 +47,4 @@ Bring a football, Spikeball, and a simple team challenge. Keep alcohol off the b
 - Another boat or fishing charter: duplicates the booked tiki cruise and adds weather risk.
 - A second major Friday activity for the whole group: golf already owns the morning, so keep the non-golf track simple.
 - Live racing at Ocean Downs: the published 2026 race season ends before the trip.
-- Too many ticketed nightlife events: BikeFest traffic and 12-person movement already add friction.
+- Too many ticketed nightlife events: BikeFest traffic and 11-person movement already add friction.

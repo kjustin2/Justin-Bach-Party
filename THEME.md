@@ -6,15 +6,15 @@ The theme is **Casino Pirates**. We are **not ordering group shirts**. The goal 
 
 | Item | Quantity | Owner | Status |
 | --- | ---: | --- | --- |
-| Black/red pirate bandanas | 15 | TBD | Not bought |
-| Small card-suit or casino-chip pins | 15 | TBD | Not bought |
-| Lightweight gold bead/coin necklaces | 15 | TBD | Not bought |
+| Black/red pirate bandanas | 14 | TBD | Not bought |
+| Small card-suit or casino-chip pins | 14 | TBD | Not bought |
+| Lightweight gold bead/coin necklaces | 14 | TBD | Not bought |
 | Clip-on pirate earrings | 8-10 pairs | TBD | Not bought |
 | Temporary pirate/casino tattoos | 1 multipack | TBD | Not bought |
 | Nicer captain bandana or small hat for Justin | 1 | TBD | Not bought |
 | Zip pouch for unused props | 1 | TBD | Not bought |
 
-Buy simple items that can come off quickly and fit in a pocket. Bring 15 sets so the 13 attendees have choices plus a couple of spares.
+Buy simple items that can come off quickly and fit in a pocket. Bring 14 sets so the 12 attendees have choices plus a couple of spares.
 
 ## Leave these home
 

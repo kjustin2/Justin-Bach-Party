@@ -1,6 +1,6 @@
 # House food, drinks, and supply assignments
 
-Quantities are starting estimates for 12 adults Thursday, a peak of 13 Friday night, and 12 after Joe leaves Saturday. Alcohol quantities are a shopping ceiling, not a challenge. The group will also drink at the casino, boat, restaurants, and Seacrets, so buy from actual preferences and keep receipts.
+Quantities are starting estimates for 11 adults Thursday, a peak of 12 Friday night, and 11 after Joe leaves Saturday. Alcohol quantities are a shopping ceiling, not a challenge. The group will also drink at the casino, boat, restaurants, and Seacrets, so buy from actual preferences and keep receipts.
 
 ## Ownership by car
 
@@ -41,7 +41,7 @@ The tiki cruise already includes beer, wine, spirits, soft drinks, and water. Do
 | Bottled water | 3 cases | Pennsylvania Car C | No |
 | Electrolyte drinks or powder | 24 servings | Pennsylvania Car C | No |
 | Ice | 6–8 bags Thursday; restock daily | DMV Car A / Takoda | No |
-| Coffee | Enough for 3 mornings / up to 13 people | Pennsylvania Car C | No |
+| Coffee | Enough for 3 mornings / up to 12 people | Pennsylvania Car C | No |
 | Coffee creamer and sugar | 1–2 each | Local grocery run | No |
 
 ## Thursday grill dinner
@@ -101,10 +101,10 @@ The full prop guidance is in [THEME.md](THEME.md). Keep every item small, wearab
 
 | Item | Quantity | Owner | Packed / bought |
 | --- | ---: | --- | --- |
-| Casino Pirates wearable prop sets | 15 | TBD | No |
+| Casino Pirates wearable prop sets | 14 | TBD | No |
 | Zip pouch for removed/unused props | 1 | TBD | No |
-| Printed bingo cards | 15 | TBD | No |
-| Pens or markers for bingo | 15 | TBD | No |
+| Printed bingo cards | 14 | TBD | No |
+| Pens or markers for bingo | 14 | TBD | No |
 
 ## Preference survey
 

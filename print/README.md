@@ -21,6 +21,6 @@ python scripts/build_bingo_card.py
 
 The generated file is `output/pdf/justins-bachelor-weekend-bingo-card.pdf`.
 
-Print **15 copies**: one for each of the 13 attendees plus 2 spares. Everyone should receive a card and a pen/marker.
+Print **14 copies**: one for each of the 12 attendees plus 2 spares. Everyone should receive a card and a pen/marker.
 
 Staples settings: US Letter, portrait, actual size or 100% scale, single-sided, and color. The important content stays at least 0.5 inches from every page edge.

@@ -12,13 +12,13 @@
 
 **Amount paid:** $2,505.44
 
-**Reservation count:** 14 guests
+**Current Airbnb reservation count:** 14 guests. Actual attendance is now 12; Justin should update the reservation count or confirm no amendment is required.
 
 [Public listing](https://www.airbnb.com/rooms/1224062306597202416). Open the reservation itself from Justin's Airbnb Trips page or original confirmation rather than sharing its private URL.
 
 ### Useful house facts
 
-- Capacity: 14 guests; the peak plan is 13 on Friday night, dropping to 12 after Joe leaves Saturday.
+- Capacity: 14 guests; the peak plan is 12 on Friday night, dropping to 11 after Joe leaves Saturday.
 - Layout: 4 bedrooms, 8 beds, 3.5 baths, 4,200 sq ft.
 - Parking: driveway for **4 vehicles**. The proposed carpool plan uses all four spaces.
 - Kitchen: gas cooktop, double oven, refrigerator, microwave, blender, drip and French-press coffee makers, dishwasher, dishware, spices.
@@ -45,13 +45,13 @@ The reservation is large enough for the group, but the property must remain a lo
 
 The email calls the four $75 entries “Private charter” and shows the $318 total as paid. Tipsy Tikis' current FAQ says $300 covers up to four passengers, each additional passenger is $75, and the hard maximum is 12 passengers. This is therefore a four-person booking, not a deposit that automatically covers the full group.
 
-- Current Saturday boat roster: 12 (Joe leaves Saturday and is not on the roster)
+- Current Saturday boat roster: 11 (Joe leaves Saturday and Sanjiv is not attending)
 - Boat maximum: 12
 - Currently paid passenger count: 4
-- Seats to add to reach maximum: 8
-- Current Saturday roster fits the boat maximum exactly
+- Seats to add for the current roster: 7
+- Current Saturday roster is one below the boat maximum
 
-Estimated full 12-person total: **about $954** if the same 6% charge applies (`$900 + $54`). Estimated remaining charge: **about $636**. Confirm the real amount directly with Tipsy Tikis before collecting money.
+Estimated full 11-person total: **about $874.50** if the same 6% charge applies (`$825 + $49.50`). Estimated remaining charge: **about $556.50**. Confirm the real amount directly with Tipsy Tikis before collecting money.
 
 ### Boat requirements
 
@@ -89,10 +89,10 @@ These are planning figures, not final payment requests.
 
 | Item | Total | Even split example |
 | --- | ---: | ---: |
-| Airbnb already paid | $2,505.44 | $192.73 each as a simple 13-person example; settle rounding separately |
-| Boat, estimated 12-person final | ~$954.00 | ~$79.50 per boat passenger |
+| Airbnb already paid | $2,505.44 | $208.79 each as a simple 12-person example; settle rounding separately |
+| Boat, estimated 11-person final | ~$874.50 | ~$79.50 per boat passenger |
 | Boat already paid | $318.00 | Paid by Justin |
-| Boat estimated amount remaining | ~$636.00 | Confirm before collecting |
+| Boat estimated amount remaining | ~$556.50 | Confirm before collecting |
 | Assateague vehicle pass | $25.00/vehicle | 7-day Maryland vehicle pass |
 | Baja go-karts | $45 / $58 per person | 1-hour / 2-hour wristband |
 | Ocean City Beach Bus | $4 per person/day | Ride-all-day |

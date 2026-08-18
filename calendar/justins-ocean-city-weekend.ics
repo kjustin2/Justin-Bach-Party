@@ -46,7 +46,7 @@ DTSTART;TZID=America/New_York:20260911T073000
 DTEND;TZID=America/New_York:20260911T110000
 SUMMARY:Friday morning 9-hole golf — booking led by Alex
 LOCATION:Berlin\, MD
-DESCRIPTION:Alex is calling for 3 consecutive advance 9-hole tee times around 8:00-8:30 AM for 10 golfers. The priority is lowest cost then distance from the house. Takoda arrives Friday night and is not golfing. Meet the Friday group for lunch at 1:15 PM.
+DESCRIPTION:Alex is calling for 3 consecutive advance 9-hole tee times around 8:00-8:30 AM for 9 golfers. The priority is lowest cost then distance from the house. Takoda arrives Friday night and is not golfing. Meet the Friday group for lunch at 1:15 PM.
 END:VEVENT
 BEGIN:VEVENT
 UID:gokarts-20260911@justin-bachelor-party
@@ -64,7 +64,7 @@ DTSTART;TZID=America/New_York:20260912T103000
 DTEND;TZID=America/New_York:20260912T133000
 SUMMARY:Ocean Downs casino and Playbook lunch
 LOCATION:10218 Racetrack Road\, Berlin\, MD 21811
-DESCRIPTION:Joe leaves Saturday and is not on this 12-person plan. Grouped rideshares. Set a gambling limit before arrival. Alex is helping reserve lunch for noon.
+DESCRIPTION:Joe leaves Saturday and is not on this 11-person plan. Grouped rideshares. Set a gambling limit before arrival. Alex is helping reserve lunch for noon.
 END:VEVENT
 BEGIN:VEVENT
 UID:tipsytikis-20260912@justin-bachelor-party
@@ -82,7 +82,7 @@ DTSTART;TZID=America/New_York:20260912T191500
 DTEND;TZID=America/New_York:20260912T204500
 SUMMARY:Post-boat dinner at 45th Street Taphouse
 LOCATION:4507 Coastal Highway\, Ocean City\, MD 21842
-DESCRIPTION:Alex is helping reserve for 12. The full Saturday group can arrive together from the boat.
+DESCRIPTION:Alex is helping reserve for 11. The full Saturday group can arrive together from the boat.
 END:VEVENT
 BEGIN:VEVENT
 UID:seacrets-20260912@justin-bachelor-party

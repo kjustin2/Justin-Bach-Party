@@ -16,7 +16,7 @@ This private repository is the single planning hub for Justin Kramer's bachelor 
 
 | Item | Decision |
 | --- | --- |
-| Group | 13 attending including Justin; Joe leaves Saturday, so 12 remain for the Saturday boat/night |
+| Group | 12 attending including Justin; Joe leaves Saturday, so 11 remain for the Saturday boat/night |
 | Theme | **Casino Pirates** - small wearable props, no group shirts |
 | Friday morning | **Nine-hole golf** to control cost and timing; non-golfers have a separate option |
 | Saturday | Ocean Downs, Tipsy Tikis, dinner, and Seacrets |
@@ -26,10 +26,10 @@ This private repository is the single planning hub for Justin Kramer's bachelor 
 
 | Priority | Owner | Where |
 | --- | --- | --- |
-| Call for 3 consecutive advance nine-hole Friday morning tee times for the 10 golfers | Alex | [GOLF.md](GOLF.md) |
+| Call for 3 consecutive advance nine-hole Friday morning tee times for the 9 golfers | Alex | [GOLF.md](GOLF.md) |
 | Request Friday and Saturday restaurant reservations | Alex | [FOOD.md](FOOD.md) |
 | Confirm the Friday golfer transportation plan | Alex + Justin | [GUESTS.md](GUESTS.md) |
-| Expand the boat booking from 4 to 12 and send waivers | Justin | [LOGISTICS.md](LOGISTICS.md) |
+| Expand the boat booking from 4 to 11 and send waivers | Justin | [LOGISTICS.md](LOGISTICS.md) |
 | Confirm Joe's Saturday departure ride/time | Justin + Joe | [GUESTS.md](GUESTS.md) |
 
 Phone numbers and starting areas are in the internal [CONTACTS.md](CONTACTS.md).
@@ -53,14 +53,15 @@ Phone numbers and starting areas are in the internal [CONTACTS.md](CONTACTS.md).
 
 ## Bingo cards
 
-Print **15 copies** of [the finished bingo card](output/pdf/justins-bachelor-weekend-bingo-card.pdf): one for each of the 13 attendees plus 2 spares. Build and print instructions are in [print/README.md](print/README.md).
+Print **14 copies** of [the finished bingo card](output/pdf/justins-bachelor-weekend-bingo-card.pdf): one for each of the 12 attendees plus 2 spares. Build and print instructions are in [print/README.md](print/README.md).
 
 ## Immediate open items
 
-- [ ] Reserve golf-club rentals for Alex and Jesse, hold a third for Sanjiv if he confirms golf, reconfirm the other 7 golfers are bringing clubs, then finalize drivers and payment.
+- [ ] Reserve golf-club rentals for Alex and Jesse, reconfirm the other 7 golfers are bringing clubs, then finalize drivers and payment.
 - [ ] Confirm Joe's Thursday arrival and Saturday departure details.
+- [ ] Update the Airbnb reservation from 14 to 12 guests, or confirm no amendment is required.
 - [ ] Book the three group restaurant targets in [FOOD.md](FOOD.md).
-- [ ] Expand Tipsy Tikis to 12 passengers and complete every waiver.
+- [ ] Expand Tipsy Tikis to 11 passengers and complete every waiver.
 - [ ] Assign the Casino Pirates prop kit and house supplies.
 - [ ] Choose the lodging cost split for the partial stays.
 
