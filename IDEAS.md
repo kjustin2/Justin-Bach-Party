@@ -7,7 +7,7 @@ Research checked August 8, 2026. Prices and schedules can change; recheck before
 | Rank | Activity | Why it fits this group | Current planning detail | Best slot |
 | ---: | --- | --- | --- | --- |
 | 1 | Ocean Downs Casino | The entire group likes it, it is close to the rental, and it has gaming, a sportsbook, drinks, and food | Sportsbook lists 8:00 AM–2:00 AM daily; The Playbook opens noon Saturday | Saturday 10:30 AM–1:30 PM |
-| 2 | Golf / go-kart split | Lets the golfers play a real round without forcing golf on everyone else | Eagle's Landing handles outings; Baja is $45 for one hour or $58 for two | Friday morning |
+| 2 | Nine-hole golf / non-golf split | Lets the golfers play without consuming the whole morning or forcing golf on everyone else | Golfers seek the cheapest advance nine-hole block, using distance from the house as the tiebreaker; non-golf choice is decided by poll | Friday morning |
 | 3 | Seacrets | Firm nightlife choice next to the Saturday boat dock | 49th Street; Red Not Chili Peppers Sep 10 and Black Hole Sons Sep 11, 9:00 PM–1:30 AM | Saturday after dinner |
 | 4 | OC Rock & Ride 9/11 show | Date-specific free spectacle during this exact weekend | Fireworks and drone tribute at the Inlet around sunset Fri Sep 11; final time TBA | Friday evening |
 | 5 | Beach + Boardwalk | Flexible and free; easy to combine with bars without making the beach the whole day | Beach Patrol remains on duty through the third Sunday after Labor Day, 10:00 AM–5:30 PM | Friday alternative |
@@ -20,7 +20,7 @@ Research checked August 8, 2026. Prices and schedules can change; recheck before
 
 ## Recommended choice
 
-Friday morning golf is chosen. Alex should finalize the 10 golfers and book three consecutive tee times; Korrey and Nick Grunsby take the non-golf track while Takoda arrives Friday night. Make Ocean Downs the 12-person Saturday block after Joe leaves, followed by the booked boat, dinner at 45th Street Taphouse, and Seacrets.
+Friday morning nine-hole golf is chosen. Alex should finalize the 10 golfers and book three consecutive advance nine-hole tee times; Korrey and Nick Grunsby choose their non-golf track through Justin's poll while Takoda arrives Friday night. Make Ocean Downs the 12-person Saturday block after Joe leaves, followed by the booked boat, dinner at 45th Street Taphouse, and Seacrets.
 
 ## Other viable options
 

@@ -43,10 +43,10 @@ BEGIN:VEVENT
 UID:golf-20260911@justin-bachelor-party
 DTSTAMP:20260816T160000Z
 DTSTART;TZID=America/New_York:20260911T073000
-DTEND;TZID=America/New_York:20260911T131500
-SUMMARY:Friday morning golf — booking led by Alex
+DTEND;TZID=America/New_York:20260911T110000
+SUMMARY:Friday morning 9-hole golf — booking led by Alex
 LOCATION:Berlin\, MD
-DESCRIPTION:Alex is helping book 3 consecutive tee times around 8:00-8:30 AM for 10 golfers. Takoda arrives Friday night and is not golfing. Meet the Friday group for lunch at 1:15 PM.
+DESCRIPTION:Alex is calling for 3 consecutive advance 9-hole tee times around 8:00-8:30 AM for 10 golfers. The priority is lowest cost then distance from the house. Takoda arrives Friday night and is not golfing. Meet the Friday group for lunch at 1:15 PM.
 END:VEVENT
 BEGIN:VEVENT
 UID:gokarts-20260911@justin-bachelor-party

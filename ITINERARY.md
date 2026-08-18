@@ -14,14 +14,15 @@ This plan keeps one real anchor per day, leaves room for a large group to move s
 | 8:00 PM onward | **Inside-only party block:** home theater, pool tournament, cards, bingo, music, and drinks | Hand out bingo cards. The yard, driveway, deck, and fire pit become quiet zones. No outside guests; close doors/windows when music is on. |
 | Optional | Seacrets: Red Not Chili Peppers | Ticketed Sep 10 show. Do this only if most people arrive early and sober transportation is arranged. |
 
-## Friday, September 11 — golf, go-karts, and BikeFest spectacle
+## Friday, September 11 — nine-hole golf, non-golf option, and BikeFest spectacle
 
 | Time | Plan | Notes |
 | --- | --- | --- |
 | 6:45 AM | Golfer breakfast | Fast breakfast, clubs and rides loaded. |
-| 7:30 AM | Golfers depart | Alex is helping book 3 consecutive tee times around 8:00-8:30 AM for 10 golfers. |
+| 7:30 AM | Golfers depart | Alex is calling for 3 consecutive **nine-hole** tee times around 8:00-8:30 AM for 10 golfers. |
 | 9:00 AM | Non-golfer breakfast | No need to wake with the golfers. |
-| 10:30 AM-12:30 PM | **Korrey and Nick Grunsby's non-golf option** | Baja go-karts, beach/Boardwalk, or another low-key plan. Takoda is still traveling. |
+| 10:30 AM-Noon | Golfers finish and reset | Nine holes should leave time to return to the house, shower, or meet the non-golfers before lunch. |
+| 10:30 AM-12:30 PM | **Korrey and Nick Grunsby's non-golf option** | Final choice and transportation are TBD after Justin asks each of them; options include Baja go-karts, beach/Boardwalk, relaxing at the house, or their own idea. Takoda is still traveling. |
 | 1:15 PM | **Friday group lunch at The Shark on the Harbor** | Alex requests 12 seats: Joe is present and Takoda arrives Friday night. |
 | 3:15 PM | Return to the house and reset | Shower, nap, hydrate, and leave space for Takoda's late arrival. |
 | 4:30 PM | Group rideshares to downtown Ocean City | BikeFest weekend: build in extra time and avoid parking multiple cars. |
