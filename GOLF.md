@@ -18,7 +18,7 @@ Plan for **3 consecutive nine-hole tee times** unless the final check drops the 
 | Brandon Toops | Yes | Available | TBD | TBD | No |
 | Nick Pace | Yes | Available | TBD | TBD | No |
 | Connor Johnson | Yes | Available | TBD | TBD | No |
-| Sanjiv Jaymoran | Yes | Available | TBD | TBD | No |
+| Sanjiv Jaymoran | TBD | Available | TBD | TBD | No |
 | Eric Tucker | Yes | Available | TBD | TBD | No |
 | Korrey Sidler | **No** | Non-golf plan | - | - | - |
 | Nick Grunsby | **No** | Non-golf plan | - | - | - |
