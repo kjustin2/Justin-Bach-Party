@@ -44,15 +44,15 @@ Course quality, scenery, and prestige do **not** affect this ranking. A course m
 1. Lowest all-in per-person price wins.
 2. If prices are tied, the shorter drive from **8628 Saddlecreek Drive** wins.
 
-Most courses do not sell advance nine-hole morning times online, so the current order below is the **closest-first call order**, not a final price ranking. Approximate drives are route estimates from the house and should be rechecked when booking.
+Most courses do not sell advance nine-hole morning times online, so the order below is the **call order**, not a final price ranking. **Ocean City Golf Club is called first:** it already has the strongest confirmed detail (three real tee times at a known $107 all-in price), so it is worth checking first even though it is not the closest course. Approximate drives are route estimates from the house and should be rechecked when booking.
 
 Live booking calendars were checked on **August 17, 2026**. These openings are not held and can change at any time.
 
 | Call order | Course | Approx. drive from house | Nine-hole status and live 18-hole fallback | Booking contact |
 | ---: | --- | ---: | --- | --- |
-| 1 | **Assateague Greens** — 9048 Stephen Decatur Hwy | 4.0 mi / 8 min | Dedicated short nine-hole executive/par-3 lead and likely cheapest if operating. Current listings conflict about whether it is open; confirm status, group capacity, and price before relying on it. | 410-213-7526 |
-| 2 | **Eagle's Landing** — 12367 Eagles Nest Rd | 4.1 mi / 8 min | Official policy: nine-hole reservations are same-day only; advance reservations pay the 18-hole rate. The live calendar did not show three consecutive target-window slots for 9; listed 18-hole rate was $149. | [Nine-hole policy](https://www.eagleslandinggolf.com/courseinfo/9-hole-golf) · [Tee times](https://eagleslanding.cps.golf/onlineresweb/search-teetime?TeeOffTimeMax=23.999722222222225&TeeOffTimeMin=0) · 410-213-7277 |
-| 3 | **Ocean City Golf Club — Seaside** — 11401 Country Club Dr | 5.5 mi / 12 min | Nine holes are not offered in the online calendar; call. Strong 18-hole fallback: **8:04, 8:12, and 8:20 AM**, each with 2-4 spots at **$107 including cart**. | [Official tee times](https://oceancitygolfclub.com/golf-tee-times/) · 410-641-1779 |
+| 1 | **Ocean City Golf Club — Seaside** — 11401 Country Club Dr | 5.5 mi / 12 min | Nine holes are not offered in the online calendar; call. Strong 18-hole fallback: **8:04, 8:12, and 8:20 AM**, each with 2-4 spots at **$107 including cart**. | [Official tee times](https://oceancitygolfclub.com/golf-tee-times/) · 410-641-1779 |
+| 2 | **Assateague Greens** — 9048 Stephen Decatur Hwy | 4.0 mi / 8 min | Dedicated short nine-hole executive/par-3 lead and likely cheapest if operating. Current listings conflict about whether it is open; confirm status, group capacity, and price before relying on it. | 410-213-7526 |
+| 3 | **Eagle's Landing** — 12367 Eagles Nest Rd | 4.1 mi / 8 min | Official policy: nine-hole reservations are same-day only; advance reservations pay the 18-hole rate. The live calendar did not show three consecutive target-window slots for 9; listed 18-hole rate was $149. | [Nine-hole policy](https://www.eagleslandinggolf.com/courseinfo/9-hole-golf) · [Tee times](https://eagleslanding.cps.golf/onlineresweb/search-teetime?TeeOffTimeMax=23.999722222222225&TeeOffTimeMin=0) · 410-213-7277 |
 | 4 | **Ocean Resorts** — 10655 Cathell Rd | 5.8 mi / 14 min | Adult nine-hole booking is not shown online; call. September 11 online reservations do not open until **August 28**. Published Friday morning 18-hole base rate is $85; confirm cart and fees. | [Official 2026 rates](https://www.oceanresortsgolfclub.com/rates-leagues) · [Tee times](https://ocean-resorts-golf-club.book.teeitup.com/?date=2026-09-11) · 410-641-5643 |
 | 5 | **Rum Pointe** — 7000 Rum Point Ln | 5.9 mi / 13 min | Online booking offers 18 holes only. No target-window group block was available; the earliest listed times were 9:22 and 9:38 for one golfer, then 9:46 for 2-4, at $232. Call only to ask about an unlisted nine-hole group option. | [Official tee times](https://rumpointe.cps.golf/onlineresweb/search-teetime?TeeOffTimeMin=0&TeeOffTimeMax=23) · 410-629-1414 |
 | 6 | **River Run** — 11605 Masters Ln | 10.2 mi / 21 min | The nine-hole filter returned no September 11 results; call. **Best confirmed 18-hole fallback:** 8:00, 8:09, and 8:18 AM, each with 2-4 spots at $90-$95 with cart. | [Official tee times](https://riverrungolf.com/golf/book-a-tee-time/) · 410-641-7200 |
@@ -62,9 +62,9 @@ Live booking calendars were checked on **August 17, 2026**. These openings are n
 
 | Course | Advance 9-hole block for 9? | All-in 9-hole price/person | Total for 9 | Confirmed 18-hole fallback | Optional rental/person |
 | --- | --- | ---: | ---: | --- | ---: |
+| Ocean City Golf Club — Seaside | Call | TBD | TBD | 8:04 / 8:12 / 8:20 at $107 | TBD |
 | Assateague Greens short course | Confirm open first | TBD | TBD | None verified | TBD |
 | Eagle's Landing | No — same-day only | TBD | TBD | Does not currently fit 9 near target time | TBD |
-| Ocean City Golf Club — Seaside | Call | TBD | TBD | 8:04 / 8:12 / 8:20 at $107 | TBD |
 | Ocean Resorts | Call; online booking opens Aug 28 | TBD | TBD | $85 published base rate; availability pending | $30 |
 | Rum Pointe | Call; not offered online | TBD | TBD | No target-window block; $232 listed later | TBD |
 | River Run | Call; online 9-hole filter had no results | TBD | TBD | 8:00 / 8:09 / 8:18 at $90-$95 | TBD |
