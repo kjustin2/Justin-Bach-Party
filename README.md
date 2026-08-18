@@ -23,7 +23,7 @@ This private repository is the single planning hub for Justin Kramer's bachelor 
 | Saturday | Open morning, Tipsy Tikis, Tide Room dinner, and Seacrets |
 | Stay | **8628 Saddlecreek Drive, Berlin, MD 21811**; Thu 4:00 PM check-in, Sun 10:00 AM checkout; 4 cars maximum |
 
-## Alex: start here
+## Start here
 
 | Priority | Owner | Where |
 | --- | --- | --- |
@@ -32,6 +32,7 @@ This private repository is the single planning hub for Justin Kramer's bachelor 
 | Confirm the Friday golfer transportation plan | Alex + Justin | [GUESTS.md](GUESTS.md) |
 | Expand the boat booking from 4 to 11 and send waivers | Justin | [LOGISTICS.md](LOGISTICS.md) |
 | Confirm Joe's Saturday departure ride/time | Justin + Joe | [GUESTS.md](GUESTS.md) |
+| **Bring the groomsmen gifts to the house** | **Justin Kramer** | Personal packing reminder |
 
 Phone numbers and starting areas are in the internal [CONTACTS.md](CONTACTS.md).
 
