@@ -1,6 +1,6 @@
 # Verified sources
 
-Last comprehensive research pass: **August 8, 2026**. Golf shortlist, Ocean Downs hours, and prop-link research refreshed **August 17, 2026**.
+Last comprehensive research pass: **August 8, 2026**. Golf, Ocean Downs, props, and Tide Room refreshed **August 17, 2026**.
 
 | Topic | Source | What was verified |
 | --- | --- | --- |
@@ -25,7 +25,7 @@ Last comprehensive research pass: **August 8, 2026**. Golf shortlist, Ocean Down
 | Ocean Downs | [Official gaming hours](https://www.oceandowns.com/gaming/), [sportsbook](https://www.oceandowns.com/sports-book/), and [The Playbook](https://www.oceandowns.com/dining/the-playbook-sports-bar/) | Casino/sportsbook 8:00 AM–2:00 AM daily; table games 10:00 AM–2:00 AM daily; The Playbook Thursday 4:00–10:00 PM and Friday 4:00–11:00 PM |
 | Amazon prop examples | [Candidate shortlist and direct product links](THEME.md#amazon-candidate-shortlist) | Listing titles and pack counts reviewed Aug 17; not ordered, and price, availability, delivery, seller, and appearance must be rechecked before buying |
 | Friday lunch | [The Shark on the Harbor](https://www.ocshark.com/) | Fresh/local menu and contact information; retained only as a flexible same-day option, not a firm reservation |
-| Saturday dinner | [45th Street Taphouse](https://www.octaphouses.com/taphouse45th) | Same address as boat dock, daily hours, bayfront setting, food and drinks |
+| Saturday dinner | [Tide Room reservations](https://tideroomoceancity.com/reservations/) and [current menu](https://ashoreoceanfronthotel.com/tide-room-menu/) | 10100 Coastal Highway; upscale menu; Resy sends parties over 5 to 410-524-7500 and says a card is required for groups of 6+; availability for 11 is not shown online |
 | Assateague | [Island information](https://www.assateagueisland.com/island_info/assateague_info.htm) | Maryland hours and $25 seven-day vehicle pass |
 | Axe throwing | [OC Battle Axe](https://ocbattleaxe.com/) | $30/person/hour and listed daily 4:00–9:00 PM hours |
 | Ocean Downs | [Official 2026 racing](https://www.oceandowns.com/racing/) | Published live-racing season ends before this trip |

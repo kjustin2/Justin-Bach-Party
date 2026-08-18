@@ -1,12 +1,12 @@
 # Food plan
 
-**Decision:** make exactly **one firm restaurant reservation** for the weekend: Saturday's post-boat dinner at 45th Street Taphouse. Coordinating 11-12 people through multiple fixed meal times will be too brittle, so every other meal stays flexible, walk-in, takeout, or house food.
+**Decision:** make exactly **one firm restaurant reservation**: Saturday's post-boat dinner at Tide Room. Every other meal stays flexible.
 
 ## Friday feature lunch — The Shark on the Harbor
 
 **Flexible target:** Friday, September 11 around 1:15 PM for up to 11 people — **no advance reservation**
 
-This is the food-first meal of the weekend. The Shark publishes a changing menu built around local seafood, local produce, and from-scratch cooking. It is also a practical reunion point after the golfers and go-kart group finish.
+The Shark is a food-first reunion option after golf and the non-golf track.
 
 - Address: 12924 Sunset Avenue, West Ocean City.
 - Use same-day call-ahead or walk-in only; be willing to split into smaller tables or switch to another nearby casual option.
@@ -25,20 +25,21 @@ The Playbook is inside Ocean Downs and can cover dinner without adding another t
 
 [Official restaurant page](https://www.oceandowns.com/dining/the-playbook-sports-bar/)
 
-## Saturday post-boat dinner — 45th Street Taphouse
+## Saturday post-boat dinner — Tide Room
 
-**Target:** Saturday, September 12 at 7:15 PM for 11 people
+**Request:** Saturday, September 12 at **7:45 PM for 11 people**
 
 **Booking lead:** Alex
 
 **This is the weekend's one and only firm restaurant reservation.**
 
-The strongest advantage is zero transportation friction: the restaurant is at the same address as the boat dock. Its current menu mixes elevated pub food with seafood, burgers, wings, crab dishes, salmon, short ribs, beer, and cocktails. After dinner, Seacrets is four blocks north.
+Tide Room is the slightly fancy choice: ocean views, cocktails, seafood, steaks, and current mains mostly around $26-$70, with premium cuts higher. It is at Ashore Oceanfront Hotel, **10100 Coastal Highway, Ocean City, MD 21842**.
 
-- Ask for indoor or sheltered seating in case the boat group is wet or chilly.
-- Confirm whether they accept reservations for 11 during BikeFest weekend.
+- **Call 410-524-7500.** Resy directs parties larger than 5 to call and requires a credit card for groups of 6 or more; no 11-person times are shown online.
+- Ask for 7:45 PM, indoor seating, one-check/split-check policy, gratuity, deposit, and cancellation terms.
+- This is roughly 5 miles north of the 45th Street dock and Seacrets, so use grouped rideshares both ways. It is not a walkable post-boat stop.
 
-[Official 45th Street Taphouse page](https://www.octaphouses.com/taphouse45th)
+[Official reservations](https://tideroomoceancity.com/reservations/) · [Current dinner menu](https://ashoreoceanfronthotel.com/tide-room-menu/)
 
 ## House meals
 
@@ -57,6 +58,6 @@ All quantities and owners are in [HOUSE-SUPPLIES.md](HOUSE-SUPPLIES.md).
 ## Information to collect
 
 - [ ] Food allergies and dietary restrictions
-- [ ] Alex records Saturday Taphouse reservation confirmation
-- [ ] Taphouse payment policy: one check or split checks
+- [ ] Alex records Tide Room time and confirmation
+- [ ] Large-party deposit/cancellation, gratuity, and check-splitting policy
 - [ ] Whether the group wants Justin's meals covered

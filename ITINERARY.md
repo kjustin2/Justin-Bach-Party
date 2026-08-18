@@ -46,8 +46,10 @@ Joe leaves Saturday and is not on the 11-person boat/night roster. Confirm his d
 | **4:05 PM** | **Rideshares leave the Airbnb** | The dock asks for arrival 15–20 minutes early. This buffer accounts for BikeFest traffic. |
 | **5:10 PM** | **Meet at 45th St. Taphouse dock** | All 11 boat passengers present, sober enough to board, IDs ready. |
 | **5:30–7:00 PM** | **Tipsy Tikis private cruise — booked** | Alcohol and non-alcoholic drinks included. No bathroom onboard. |
-| 7:15–8:45 PM | **Dinner at 45th Street Taphouse** | Directly at the dock, with seafood, burgers, wings, crab dishes, cocktails, and bay views. Reserve for 11. |
-| 9:00 PM onward | **Seacrets — firm plan** | Four blocks north at 49th Street. Eat first, then make this the main nightlife event. Use sidewalks and marked crossings. |
+| 7:00–7:35 PM | **Disembark and rideshare north** | Tide Room is at 101st Street, roughly 5 miles from the 45th Street dock. Keep the group together. |
+| 7:45–9:15 PM | **Tide Room dinner — reservation required** | Slightly fancy oceanfront dinner for 11. Alex must call; large-party times are not available online. |
+| 9:15–9:45 PM | **Rideshare south to Seacrets** | Return to 49th Street; do not treat Tide Room as walkable. |
+| 9:45 PM onward | **Seacrets — firm plan** | Main nightlife event. Use grouped rideshares back to Berlin. |
 | Late | Grouped rideshares back to Berlin | Keep the four parked cars at the rental. |
 
 ## Sunday, September 13 — checkout

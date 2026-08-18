@@ -79,7 +79,7 @@ Recommended night-out pattern:
 3. On Coastal Highway, use the municipal Beach Bus between venues.
 4. Order grouped rideshares back to Berlin.
 
-During the trip dates, the official Beach Bus schedule is 6:00 AM–3:00 AM, roughly every 15 minutes, for a $4 ride-all-day fare. It runs between South Division Street and 144th Street and can connect downtown, the 45th Street dock, and Seacrets. It does **not** serve the Airbnb.
+During the trip dates, the official Beach Bus runs 6:00 AM–3:00 AM about every 15 minutes; a ride-all-day pass is $4. It connects the 45th Street dock, Seacrets at 49th, and Tide Room at 101st, but **not** the Airbnb. Use grouped rideshares when timing matters.
 
 BikeFest / OC Rock & Ride runs September 9–13. Allow extra time on Route 50 and Coastal Highway, expect loud motorcycle traffic, and avoid depending on scarce last-minute parking.
 

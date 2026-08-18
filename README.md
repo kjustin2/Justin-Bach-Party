@@ -20,7 +20,7 @@ This private repository is the single planning hub for Justin Kramer's bachelor 
 | Theme | **Casino Pirates** - small wearable props, no group shirts |
 | Friday morning | **Nine-hole golf** to control cost and timing; non-golfers have a separate option |
 | Casino | **Thursday night preferred; Friday night fallback. No Saturday-morning casino block.** |
-| Saturday | Open morning, flexible lunch, Tipsy Tikis, the one reserved dinner, and Seacrets |
+| Saturday | Open morning, Tipsy Tikis, Tide Room dinner, and Seacrets |
 | Stay | **8628 Saddlecreek Drive, Berlin, MD 21811**; Thu 4:00 PM check-in, Sun 10:00 AM checkout; 4 cars maximum |
 
 ## Alex: start here
@@ -28,7 +28,7 @@ This private repository is the single planning hub for Justin Kramer's bachelor 
 | Priority | Owner | Where |
 | --- | --- | --- |
 | Call for 3 consecutive advance nine-hole Friday morning tee times for the 9 golfers | Alex | [GOLF.md](GOLF.md) |
-| Book only the Saturday post-boat dinner reservation | Alex | [FOOD.md](FOOD.md) |
+| Call Tide Room for the only firm dinner reservation | Alex | [FOOD.md](FOOD.md) |
 | Confirm the Friday golfer transportation plan | Alex + Justin | [GUESTS.md](GUESTS.md) |
 | Expand the boat booking from 4 to 11 and send waivers | Justin | [LOGISTICS.md](LOGISTICS.md) |
 | Confirm Joe's Saturday departure ride/time | Justin + Joe | [GUESTS.md](GUESTS.md) |
@@ -58,15 +58,7 @@ Print **14 copies** of [the finished bingo card](output/pdf/justins-bachelor-wee
 
 ## Immediate open items
 
-- [ ] Reserve golf-club rentals for Alex and Jesse, reconfirm the other 7 golfers are bringing clubs, then finalize drivers and payment.
-- [ ] Confirm Joe's Thursday arrival and Saturday departure details.
-- [ ] Update the Airbnb reservation from 14 to 12 guests, or confirm no amendment is required.
-- [ ] Book the one firm dinner reservation at 45th Street Taphouse; keep every other meal flexible.
-- [ ] Confirm Thursday night or Friday night for Ocean Downs; do not schedule it Saturday morning.
-- [ ] Choose the Casino Pirates props from the reviewed [candidate list](THEME.md); recheck price and availability before buying.
-- [ ] Expand Tipsy Tikis to 11 passengers and complete every waiver.
-- [ ] Assign the Casino Pirates prop kit and house supplies.
-- [ ] Choose the lodging cost split for the partial stays.
+Use the single [planning checklist](CHECKLIST.md). The critical calls are golf, Tide Room, the 11-person boat expansion, Joe's travel, and the Airbnb guest-count correction.
 
 ## Privacy
 

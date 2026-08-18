@@ -76,22 +76,22 @@ LOCATION:45th St. Taphouse\, 4507 Coastal Highway\, Ocean City\, MD 21842
 DESCRIPTION:Boarding prep at 5:10 PM. Cruise 5:30-7:00 PM. Bring ID\, wet-friendly shoes\, a light layer\, and cash tip. Complete waiver before arrival.
 END:VEVENT
 BEGIN:VEVENT
-UID:taphouse-20260912@justin-bachelor-party
+UID:tide-room-20260912@justin-bachelor-party
 DTSTAMP:20260816T160000Z
-DTSTART;TZID=America/New_York:20260912T191500
-DTEND;TZID=America/New_York:20260912T204500
-SUMMARY:Post-boat dinner at 45th Street Taphouse
-LOCATION:4507 Coastal Highway\, Ocean City\, MD 21842
-DESCRIPTION:Alex is helping reserve for 11. The full Saturday group can arrive together from the boat.
+DTSTART;TZID=America/New_York:20260912T194500
+DTEND;TZID=America/New_York:20260912T211500
+SUMMARY:Post-boat dinner at Tide Room — reservation pending
+LOCATION:Tide Room\, 10100 Coastal Highway\, Ocean City\, MD 21842
+DESCRIPTION:Alex must call 410-524-7500 for 11; large parties cannot book online. Grouped rideshare north from the 45th Street dock and south to Seacrets.
 END:VEVENT
 BEGIN:VEVENT
 UID:seacrets-20260912@justin-bachelor-party
 DTSTAMP:20260816T160000Z
-DTSTART;TZID=America/New_York:20260912T210000
+DTSTART;TZID=America/New_York:20260912T214500
 DTEND;TZID=America/New_York:20260913T013000
 SUMMARY:Seacrets — firm bachelor-party night
 LOCATION:117 49th Street\, Ocean City\, MD 21842
-DESCRIPTION:Walk four blocks north from dinner using sidewalks and marked crossings. Grouped rideshares back to Berlin. Nobody drives after drinking.
+DESCRIPTION:Grouped rideshare south from Tide Room. Grouped rideshares back to Berlin. Nobody drives after drinking.
 END:VEVENT
 BEGIN:VEVENT
 UID:checkout-20260913@justin-bachelor-party

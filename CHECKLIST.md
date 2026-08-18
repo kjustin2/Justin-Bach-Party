@@ -21,7 +21,7 @@
 
 ## By August 20
 
-- [ ] Alex: reserve the **only firm restaurant booking** — Saturday 7:15 PM dinner at 45th Street Taphouse for 11.
+- [ ] Alex: call Tide Room at **410-524-7500** and request the **only firm restaurant booking** — Saturday 7:45 PM for 11. Parties over 5 cannot book online; a credit card is required.
 - [ ] Keep Friday lunch and Saturday lunch flexible; do not create additional restaurant reservations.
 - [ ] Choose Ocean Downs for Thursday night (preferred) or Friday night (fallback); confirm grouped rideshares and remind everyone to bring ID.
 - [ ] Assign and buy the small wearable Casino Pirates prop kit in `THEME.md`; no group shirts.
@@ -41,9 +41,9 @@
 - [ ] Recheck OC Rock & Ride's exact fireworks/drone time and concert schedule.
 - [ ] Recheck Seacrets' September 10–12 calendar and ticket requirements.
 - [ ] Check the Ocean City / Assateague weather forecast.
-- [ ] Reconfirm the single 45th Street Taphouse dinner reservation.
+- [ ] Reconfirm the single Tide Room dinner reservation and its large-party payment/cancellation terms.
 - [ ] Reconfirm golf tee times, rental clubs, and the non-golfer meetup.
-- [ ] Reconfirm 45th Street Taphouse; The Playbook and Friday lunch remain unreserved options.
+- [ ] Confirm The Playbook and Friday lunch remain unreserved options.
 - [ ] Reconfirm all boat waivers and final passenger count.
 - [ ] Reconfirm Airbnb check-in instructions and house checkout list.
 - [ ] Share the final itinerary and rental address only in the private group chat.

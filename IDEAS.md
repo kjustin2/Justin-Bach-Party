@@ -1,6 +1,6 @@
 # Activity shortlist
 
-Research checked August 8, 2026; Ocean Downs hours refreshed August 17, 2026. Prices and schedules can change; recheck before booking.
+Research checked August 8, 2026; golf, Ocean Downs, props, and Tide Room refreshed August 17, 2026. Prices and schedules can change.
 
 ## Best fits
 
@@ -8,7 +8,7 @@ Research checked August 8, 2026; Ocean Downs hours refreshed August 17, 2026. Pr
 | ---: | --- | --- | --- | --- |
 | 1 | Ocean Downs Casino | The entire group likes it, it is close to the rental, and it has gaming, a sportsbook, drinks, and food | Casino/sportsbook 8:00 AM–2:00 AM daily; table games 10:00 AM–2:00 AM | Thursday night preferred; Friday night fallback |
 | 2 | Nine-hole golf / non-golf split | Lets the golfers play without consuming the whole morning or forcing golf on everyone else | Golfers seek the cheapest advance nine-hole block, using distance from the house as the tiebreaker; non-golf choice is decided by poll | Friday morning |
-| 3 | Seacrets | Firm nightlife choice next to the Saturday boat dock | 49th Street; Red Not Chili Peppers Sep 10 and Black Hole Sons Sep 11, 9:00 PM–1:30 AM | Saturday after dinner |
+| 3 | Seacrets | Firm Saturday nightlife choice | 49th Street; grouped rideshare from Tide Room | Saturday after dinner |
 | 4 | OC Rock & Ride 9/11 show | Date-specific free spectacle during this exact weekend | Fireworks and drone tribute at the Inlet around sunset Fri Sep 11; final time TBA | Friday evening |
 | 5 | Beach + Boardwalk | Flexible and free; easy to combine with bars without making the beach the whole day | Beach Patrol remains on duty through the third Sunday after Labor Day, 10:00 AM–5:30 PM | Friday alternative |
 | 6 | Assateague Island | Close to the Airbnb, scenic, inexpensive, and available for early arrivals or non-golfers | Maryland 7-day vehicle pass listed at $25; park is open 24 hours | Optional Friday morning |
@@ -20,7 +20,7 @@ Research checked August 8, 2026; Ocean Downs hours refreshed August 17, 2026. Pr
 
 ## Recommended choice
 
-Friday morning nine-hole golf is chosen. Alex should finalize the 9 golfers and book three consecutive advance nine-hole tee times; Korrey and Nick Grunsby choose their non-golf track through Justin's poll while Takoda arrives Friday night. Put Ocean Downs on Thursday night if possible, with Friday night as the fallback. Keep Saturday morning open before the booked boat, the weekend's one reserved dinner at 45th Street Taphouse, and Seacrets.
+Friday morning is nine-hole golf plus a non-golf track. Ocean Downs is Thursday night preferred or Friday night fallback. Saturday stays open until the boat, followed by the weekend's only reserved dinner at Tide Room and Seacrets.
 
 ## Other viable options
 
