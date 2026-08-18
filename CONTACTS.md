@@ -16,9 +16,9 @@ Use this file for trip coordination only. It contains personal phone numbers and
 | Nick Grunsby | (570) 428-3585 | Muncy, PA | Pennsylvania Car C; not golfing |
 | Jesse Aguilar | (570) 316-1451 | Muncy, PA | Pennsylvania Car C draft |
 | Sanjiv Jaymoran | (703) 678-8819 | Tysons Corner, VA | DMV Car A draft |
-| Takoda Moyer | **TBD** | Muncy, PA | Arrives Friday night; not golfing; Muncy Car D |
+| Takoda Moyer | (570) 220-5380 | Muncy, PA | Arrives Friday night; not golfing; Muncy Car D |
 
-Starting areas are for carpool planning, not home addresses. Update Takoda's number and Joe's exact Fairfax pickup/departure details when known.
+Starting areas are for carpool planning, not home addresses. Update Joe's exact Fairfax pickup/departure details when known.
 
 ## Booking ownership
 

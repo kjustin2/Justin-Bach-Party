@@ -16,7 +16,7 @@
 - [ ] Alex: reserve 2 rental sets for Alex and Jesse, hold a third for Sanjiv if he confirms golf, and reconfirm that the other 7 golfers are bringing their own clubs.
 - [ ] Alex: call the [golf shortlist](GOLF.md) for all-in **nine-hole** quotes, then reserve 3 consecutive advance tee times at the cheapest available course; use distance from the house to break a price tie. Use 18 holes only as a schedule-safe fallback.
 - [ ] Justin: ask Korrey and Nick Grunsby what they want to do Friday morning instead of golf; record each person's choice and transportation plan in [GOLF.md](GOLF.md) and update the itinerary.
-- [ ] Add Takoda's phone number to `CONTACTS.md`.
+- [x] Add Takoda's phone number to `CONTACTS.md`.
 
 ## By August 20
 
