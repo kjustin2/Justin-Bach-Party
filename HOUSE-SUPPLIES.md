@@ -28,9 +28,11 @@ First collect everyone's top two drink choices. Do not buy five varieties nobody
 | Orange and cranberry juice | 2 large bottles each | DMV Car B | No |
 | Soda, tonic, ginger beer, club soda | Preference-based mixed set | DMV Car B | No |
 | Limes and lemons | 12–18 total | Local grocery run | No |
-| Disposable cups + permanent markers | 50 cups + 4 markers | DMV Car B | No |
+| **Red Solo cups — must-have** + permanent markers | **At least 150 cups** + 4 markers | DMV Car B | No |
 | Bottle opener / corkscrew / shaker | 1 each | DMV Car B | No |
 | Coolers | 2–3 | DMV Car A | No |
+
+Red Solo cups are a firm requirement, not an optional backup. Buy enough packs to reach at least 150 total and use the markers for names.
 
 The tiki cruise already includes beer, wine, spirits, soft drinks, and water. Do not bring glass or arrive heavily pregamed.
 

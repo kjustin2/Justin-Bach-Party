@@ -27,6 +27,7 @@
 - [ ] Assign and buy the small wearable Casino Pirates prop kit in `THEME.md`; no group shirts.
 - [ ] Print 14 bingo cards: 12 attendees plus 2 spares.
 - [ ] Assign every alcohol, food, snack, ice, and supply row in `HOUSE-SUPPLIES.md`.
+- [ ] Buy and pack at least 150 red Solo cups plus 4 permanent markers; do not rely on the house's cups.
 - [ ] Send `HOUSE-RULES.md` to the group and get an acknowledgment.
 - [ ] Assign all beds and decide whether to bring an air mattress.
 - [ ] Build the grocery and drinks list.
