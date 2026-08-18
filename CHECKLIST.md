@@ -34,6 +34,7 @@
 - [ ] Send `HOUSE-RULES.md` to the group and get an acknowledgment.
 - [ ] Assign all beds and decide whether to bring an air mattress.
 - [ ] Build the grocery and drinks list.
+- [ ] Justin: name one shopper for the required Thursday recovery pickup; buy 24 Vitaminwaters, 24 electrolyte servings, bananas, applesauce, saltines, and soup/broth.
 - [ ] Choose one rideshare coordinator for each night.
 - [ ] Decide whether Thursday Seacrets still fits after choosing the casino night; do not overbook the evening.
 

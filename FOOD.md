@@ -51,9 +51,9 @@ Fager's is the best balance of slightly fancy and nearby: waterfront fine dining
 | Thursday dinner | Burgers, sausages/hot dogs, two easy sides, and grill toppings |
 | Friday breakfast | Fast golfer breakfast first; non-golfer breakfast later |
 | Friday late night | Frozen pizza and sandwich supplies |
-| Saturday breakfast | Eggs, bacon/sausage, potatoes, bagels, fruit |
+| Saturday breakfast | Eggs, bacon/sausage, potatoes, bagels, fruit, Vitaminwater, and electrolytes |
 | Saturday flexible lunch | Sandwiches, leftovers, takeout, or a quick walk-in option; no reservation |
-| Saturday late night | Frozen pizza, snacks, water, and electrolytes |
+| Saturday late night | Frozen pizza, easy recovery foods, water, Vitaminwater, and electrolytes |
 | Sunday breakfast | Use remaining eggs, bagels, fruit, and coffee before cleanup |
 
 All quantities and owners are in [HOUSE-SUPPLIES.md](HOUSE-SUPPLIES.md).

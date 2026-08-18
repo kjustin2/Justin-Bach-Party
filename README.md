@@ -34,6 +34,7 @@ This private repository is the single planning hub for Justin Kramer's bachelor 
 | Expand the boat booking from 4 to 11 and send waivers | Justin | [LOGISTICS.md](LOGISTICS.md) |
 | Confirm Joe's Saturday departure ride/time | Justin + Joe | [GUESTS.md](GUESTS.md) |
 | **Bring the groomsmen gifts to the house** | **Justin Kramer** | Personal packing reminder |
+| **Assign one person to buy Vitaminwater and recovery supplies** | **Justin Kramer** | [HOUSE-SUPPLIES.md](HOUSE-SUPPLIES.md#hangover-recovery-pickup--required) |
 
 Phone numbers and starting areas are in the internal [CONTACTS.md](CONTACTS.md).
 

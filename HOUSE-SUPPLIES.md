@@ -10,9 +10,10 @@ This spreads the load and fits the four-car parking plan.
 | --- | --- | --- | --- |
 | DMV Car A | Beer, seltzers, coolers, Thursday ice | TBD | No |
 | DMV Car B | Liquor, mixers, cups, bar tools | TBD | No |
-| Pennsylvania Car C | Water, electrolytes, snacks, breakfast shelf items | TBD | No |
+| Pennsylvania Car C | Water, snacks, breakfast shelf items | TBD | No |
 | Muncy Car D / Takoda | Friday-night or Saturday-morning restock: ice, water, anything forgotten | Takoda / TBD | No |
 | Local grocery run | Cold food, grill dinner, breakfast meat/eggs, fruit | TBD | No |
+| **Thursday recovery pickup** | **Vitaminwater, electrolytes, and easy recovery foods** | **Justin assigns 1 named shopper** | **No** |
 
 ## Alcohol and bar
 
@@ -41,10 +42,25 @@ The tiki cruise already includes beer, wine, spirits, soft drinks, and water. Do
 | Item | Starting quantity | Owner | Packed / bought |
 | --- | ---: | --- | --- |
 | Bottled water | 3 cases | Pennsylvania Car C | No |
-| Electrolyte drinks or powder | 24 servings | Pennsylvania Car C | No |
+| Recovery drinks and easy foods | See required pickup below | Justin assigns 1 named shopper | No |
 | Ice | 6–8 bags Thursday; restock daily | DMV Car A / Takoda | No |
 | Coffee | Enough for 3 mornings / up to 12 people | Pennsylvania Car C | No |
 | Coffee creamer and sugar | 1–2 each | Local grocery run | No |
+
+## Hangover recovery pickup — required
+
+Justin must assign **one named shopper** for this Thursday pickup. These are supportive hydration and easy-food supplies, not a hangover cure.
+
+| Item | Quantity | Owner | Packed / bought |
+| --- | ---: | --- | --- |
+| Vitaminwater | 24 bottles | Thursday recovery pickup | No |
+| Electrolyte drinks or powder | 24 servings | Thursday recovery pickup | No |
+| Bananas | 18 | Thursday recovery pickup | No |
+| Unsweetened applesauce cups | 12 | Thursday recovery pickup | No |
+| Saltine crackers | 2 boxes | Thursday recovery pickup | No |
+| Chicken noodle soup or broth | 8 cans/cartons | Thursday recovery pickup | No |
+
+Set this out with bottled water before bed Friday and Saturday. Keep the regular breakfast food available; do not rely only on snacks after a drinking night.
 
 ## Thursday grill dinner
 
