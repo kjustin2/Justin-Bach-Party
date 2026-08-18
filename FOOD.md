@@ -42,7 +42,7 @@ Fager's is the best balance of slightly fancy and nearby: waterfront fine dining
 
 [Official food and reservations](https://www.fagers.com/fooddrink) · [Fine-dining reservation policy](https://www.fagers.com/menu2)
 
-**Backups if Fager's cannot take 11:** 32 Palm at 32nd Street is upscale-casual and open until 10:00 PM daily; Ristorante Antipasti at 31st Street is the more formal Italian choice. Both create a longer trip back north to Seacrets.
+**Backup if Fager's cannot take 11:** Ristorante Antipasti at 31st Street, the more formal Italian choice. It creates a longer trip back north to Seacrets.
 
 ## House meals
 
