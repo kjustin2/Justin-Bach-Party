@@ -16,7 +16,7 @@ Research checked August 8, 2026; golf, Ocean Downs, props, and Tide Room refresh
 
 ## Theme
 
-**Casino Pirates** is the weekend theme. Use small wearable bandanas, pins, beads, or similar props; do not order group shirts or bring weapon-like/oversized props. See [THEME.md](THEME.md).
+**Casino Pirates** is the weekend theme. Use small wearable bandanas, pins, beads, or similar props; avoid weapon-like or oversized props. See [THEME.md](THEME.md).
 
 ## Recommended choice
 

@@ -38,6 +38,6 @@ Do not tape or hang decorations until Justin confirms the host rules and a damag
 - Masks or face coverings
 - Oversized hats, flags, inflatable props, or anything that blocks aisles or views
 - Glitter, loose confetti, noisy props, or items that could damage the Airbnb
-- Matching shirts; the archived `shirts/` folder is not part of the current plan
+- Matching shirts
 
 Venue staff have the final say. If asked to remove a prop, put it in the pouch and keep moving.

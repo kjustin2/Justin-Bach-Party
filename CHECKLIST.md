@@ -24,7 +24,7 @@
 - [ ] Alex: call Tide Room at **410-524-7500** and request the **only firm restaurant booking** — Saturday 7:45 PM for 11. Parties over 5 cannot book online; a credit card is required.
 - [ ] Keep Friday lunch and Saturday lunch flexible; do not create additional restaurant reservations.
 - [ ] Choose Ocean Downs for Thursday night (preferred) or Friday night (fallback); confirm grouped rideshares and remind everyone to bring ID.
-- [ ] Assign and buy the small wearable Casino Pirates prop kit in `THEME.md`; no group shirts.
+- [ ] Assign and buy the small wearable Casino Pirates prop kit in `THEME.md`.
 - [ ] Pick from the Amazon prop candidates in `THEME.md`; verify current price, availability, delivery, and Airbnb-safe setup before buying.
 - [ ] Print 14 bingo cards: 12 attendees plus 2 spares.
 - [ ] Assign every alcohol, food, snack, ice, and supply row in `HOUSE-SUPPLIES.md`.

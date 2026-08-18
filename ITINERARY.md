@@ -1,6 +1,6 @@
 # Recommended itinerary
 
-This plan keeps one real anchor per day, leaves room for a large group to move slowly, and works around BikeFest traffic and the fixed Saturday boat booking. The weekend theme is **Casino Pirates**: small wearable props, no group shirts or intrusive/weapon-like items.
+This plan keeps one real anchor per day, leaves room for a large group to move slowly, and works around BikeFest traffic and the fixed Saturday boat booking. The weekend theme is **Casino Pirates** with small, venue-safe wearable props.
 
 ## Thursday, September 10 — arrive and settle in
 
