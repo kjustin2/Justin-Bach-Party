@@ -57,7 +57,7 @@ Print **15 copies** of [the finished bingo card](output/pdf/justins-bachelor-wee
 
 ## Immediate open items
 
-- [ ] Finalize golf clubs/rentals, drivers, and payment for the 10 golfers.
+- [ ] Reserve golf-club rentals for Alex and Jesse, hold a third for Sanjiv if he confirms golf, reconfirm the other 7 golfers are bringing clubs, then finalize drivers and payment.
 - [ ] Confirm Joe's Thursday arrival and Saturday departure details.
 - [ ] Book the three group restaurant targets in [FOOD.md](FOOD.md).
 - [ ] Expand Tipsy Tikis to 12 passengers and complete every waiver.

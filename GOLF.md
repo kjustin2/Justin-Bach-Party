@@ -4,30 +4,33 @@
 
 ## Current RSVP count
 
-- **10 Yes responses**
+- **9 Yes responses**
+- **1 TBD:** Sanjiv
 - **3 No responses:** Takoda, Korrey, and Nick Grunsby
 
 Plan for **3 consecutive nine-hole tee times** unless the final check drops the group to 8 or fewer.
 
 | Person | Golfing? | Availability / note | Bringing clubs? | Rental set? | Paid / confirmed |
 | --- | --- | --- | --- | --- | --- |
-| Justin Kramer | Yes | Available | TBD | TBD | No |
-| Joe Frazier | Yes | Available Friday; leaves Saturday | TBD | TBD | No |
-| Jesse Aguilar | Yes | Available | TBD | TBD | No |
+| Justin Kramer | Yes | Available | Expected | No | No |
+| Joe Frazier | Yes | Available Friday; leaves Saturday | Expected | No | No |
+| Jesse Aguilar | Yes | Available | No | **Yes** | No |
 | Takoda Moyer | **No** | Arrives Friday night | - | - | - |
-| Brandon Toops | Yes | Available | TBD | TBD | No |
-| Nick Pace | Yes | Available | TBD | TBD | No |
-| Connor Johnson | Yes | Available | TBD | TBD | No |
-| Sanjiv Jaymoran | TBD | Available | TBD | TBD | No |
-| Eric Tucker | Yes | Available | TBD | TBD | No |
+| Brandon Toops | Yes | Available | Expected | No | No |
+| Nick Pace | Yes | Available | Expected | No | No |
+| Connor Johnson | Yes | Available | Expected | No | No |
+| Sanjiv Jaymoran | TBD | If golfing, needs a rental set | No | **Yes, if golfing** | No |
+| Eric Tucker | Yes | Available | Expected | No | No |
 | Korrey Sidler | **No** | Non-golf plan | - | - | - |
 | Nick Grunsby | **No** | Non-golf plan | - | - | - |
-| Alex Kramer | Yes | Booking helper | TBD | TBD | No |
-| Johnny Jordan | Yes | Available | TBD | TBD | No |
+| Alex Kramer | Yes | Booking helper | No | **Yes** | No |
+| Johnny Jordan | Yes | Available | Expected | No | No |
+
+**Current club plan:** reserve **2 confirmed rental sets** for Alex and Jesse, plus **1 conditional rental set** for Sanjiv if he confirms golf. The other **7 golfers are expected to bring their own clubs**; reconfirm before paying for rentals.
 
 ## Alex's booking checklist
 
-1. Collect clubs/rentals from the 10 golfers.
+1. Reserve 2 rental sets for Alex and Jesse, hold a third for Sanjiv if he confirms golf, and reconfirm that the other 7 golfers are bringing their own clubs.
 2. Call every viable course below and ask for **three consecutive advance nine-hole tee times** near 8:00-8:30 AM. The online calendars mostly sell 18 holes only.
 3. Confirm that the course will reserve all 10 golfers in advance rather than making the group rely on same-day nine-hole availability.
 4. Get the **all-in nine-hole price per golfer**, including required cart and booking fees. Keep optional club rentals separate.
