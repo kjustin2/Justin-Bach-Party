@@ -95,7 +95,10 @@ The Airbnb lists trash bags, paper towels, dishware, dishwasher, and laundry det
 | Wet wipes / stain remover | 1–2 packs | TBD | No |
 | Basic first-aid kit | 1 | TBD | No |
 | Phone charging station / power strips | 2 | TBD | No |
+| **White folding tables** | **1 required; 2 preferred** | Connor: confirm 1; second owner TBD | No |
 | Cards / poker chips / pool-tournament bracket | 1 set each | TBD | No |
+
+Connor should have at least one white folding table. Confirm its folded size fits in DMV Car B, and find a second table/owner if cargo space allows.
 
 ## Casino Pirates and bingo
 
