@@ -71,9 +71,9 @@ UID:tipsytikis-20260912@justin-bachelor-party
 DTSTAMP:20260816T160000Z
 DTSTART;TZID=America/New_York:20260912T171000
 DTEND;TZID=America/New_York:20260912T190000
-SUMMARY:Tipsy Tikis — meet at 5:10 PM
+SUMMARY:Tipsy Tikis — same pickup/drop-off dock; meet 5:10 PM
 LOCATION:45th St. Taphouse\, 4507 Coastal Highway\, Ocean City\, MD 21842
-DESCRIPTION:Boarding prep at 5:10 PM. Cruise 5:30-7:00 PM. Bring ID\, wet-friendly shoes\, a light layer\, and cash tip. Complete waiver before arrival.
+DESCRIPTION:Pickup and drop-off are at this same dock. Meet 5:10 PM; cruise departs 5:30 PM and returns about 7:00 PM. Bring ID\, wet-friendly shoes\, a light layer\, and cash tip. Complete waiver before arrival.
 END:VEVENT
 BEGIN:VEVENT
 UID:fagers-island-20260912@justin-bachelor-party

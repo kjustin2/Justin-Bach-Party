@@ -21,6 +21,7 @@ This private repository is the single planning hub for Justin Kramer's bachelor 
 | Friday morning | **Nine-hole golf** to control cost and timing; non-golfers have a separate option |
 | Casino | **Thursday night preferred; Friday night fallback. No Saturday-morning casino block.** |
 | Saturday | Open morning, Tipsy Tikis, Fager's Island dinner, and Seacrets |
+| Tipsy Tikis pickup + drop-off | **Same dock both ways:** 45th St. Taphouse Bar & Grille, 4507 Coastal Highway, Ocean City, MD 21842; meet 5:10 PM, return about 7:00 PM |
 | Stay | **8628 Saddlecreek Drive, Berlin, MD 21811**; Thu 4:00 PM check-in, Sun 10:00 AM checkout; 4 cars maximum |
 
 ## Start here

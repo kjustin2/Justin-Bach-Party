@@ -37,7 +37,10 @@ The reservation is large enough for the group, but the property must remain a lo
 
 **Meet by:** 5:10 PM
 
-**Dock:** 45th St. Taphouse Bar & Grille, 4507 Coastal Highway, Ocean City, MD 21842
+**Pickup and drop-off — same dock:** 45th St. Taphouse Bar & Grille, **4507 Coastal Highway, Ocean City, MD 21842**
+
+- **Pickup:** meet at this dock by 5:10 PM; cruise departs at 5:30 PM.
+- **Drop-off:** the cruise returns to this same dock at about 7:00 PM.
 
 **Current payment:** $318 total for **4 passengers**
 

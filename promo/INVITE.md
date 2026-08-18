@@ -28,7 +28,7 @@ This file is safe to paste into the group chat. Send the exact rental address se
 
 > **Tipsy Tikis reminder — Saturday, Sep 12**
 >
-> Meet at the 45th Street dock by **5:10 PM** for the **5:30–7:00 PM** cruise. Bring a valid ID, wet-friendly shoes, a light layer, and cash for the crew tip. Complete your waiver before the trip. Do not pregame hard—the captain can refuse boarding if anyone arrives visibly intoxicated.
+> **Pickup and drop-off are the same place:** 45th St. Taphouse Bar & Grille, **4507 Coastal Highway, Ocean City, MD 21842**. Meet at the dock by **5:10 PM** for the **5:30–7:00 PM** cruise; the boat returns there around 7:00 PM. Bring a valid ID, wet-friendly shoes, a light layer, and cash for the crew tip. Complete your waiver before the trip. Do not pregame hard—the captain can refuse boarding if anyone arrives visibly intoxicated.
 
 ## Final-week reminder
 

@@ -6,7 +6,7 @@ Last comprehensive research pass: **August 8, 2026**. Golf, Ocean Downs, props, 
 | --- | --- | --- |
 | Airbnb reservation | Justin's signed-in Airbnb Trips page, checked directly | Sep 10 4:00 PM check-in; Sep 13 10:00 AM checkout; Berlin address; 14 guests; amount paid |
 | Airbnb home | [Public listing](https://www.airbnb.com/rooms/1224062306597202416) | Bedrooms, beds, baths, 4-car parking, amenities, exterior cameras, and no-parties rule |
-| Tipsy Tikis booking | Booking-confirmation attachment supplied by Justin | Sep 12 5:30–7:00 PM; 45th Street; four paid passenger entries; requirements and cancellation language |
+| Tipsy Tikis booking | Booking-confirmation attachment supplied by Justin | Sep 12 5:30–7:00 PM; pickup and drop-off at the same 45th St. Taphouse dock, 4507 Coastal Highway; four paid passenger entries; requirements and cancellation language |
 | Tipsy Tikis policies | [Official FAQ](https://tipsytikis.com/faq.html) | $300 up to four, $75/additional passenger, 12 max, included drinks, arrival, ID, waiver, tip, food, bathroom, and weather rules |
 | BikeFest weekend | [OC Rock & Ride](https://www.ocrockandride.com/) | Event runs Sep 9–13, 2026 |
 | Friday event | [OC Rock & Ride event details](https://www.ocrockandride.com/events) | Sep 11 fireworks/drone tribute around sunset at the Inlet; final details TBA |
