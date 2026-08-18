@@ -1,6 +1,6 @@
 # Verified sources
 
-Last comprehensive research pass: **August 8, 2026**. Golf, Ocean Downs, props, and Tide Room refreshed **August 17, 2026**.
+Last comprehensive research pass: **August 8, 2026**. Golf, Ocean Downs, props, and Saturday dinner refreshed **August 17, 2026**.
 
 | Topic | Source | What was verified |
 | --- | --- | --- |
@@ -23,9 +23,10 @@ Last comprehensive research pass: **August 8, 2026**. Golf, Ocean Downs, props, 
 | Ocean Pines | [Official rates](https://www.oceanpinesgolf.org/golf/course-rates) and [live tee times](https://ocean-pines-golf-and-country-club.book.teeitup.com/?date=2026-09-11) | Online system showed 18 holes only; 8:06/8:15/8:24 each had 2-4 spots at $132.49; official rate page says cart is included |
 | Assateague Greens | Current map/directory listings and 410-213-7526 | Nearby short-course lead only; operating status and current price are unresolved and must be confirmed by phone |
 | Ocean Downs | [Official gaming hours](https://www.oceandowns.com/gaming/), [sportsbook](https://www.oceandowns.com/sports-book/), and [The Playbook](https://www.oceandowns.com/dining/the-playbook-sports-bar/) | Casino/sportsbook 8:00 AM–2:00 AM daily; table games 10:00 AM–2:00 AM daily; The Playbook Thursday 4:00–10:00 PM and Friday 4:00–11:00 PM |
-| Amazon prop examples | [Candidate shortlist and direct product links](THEME.md#amazon-candidate-shortlist) | Listing titles and pack counts reviewed Aug 17; not ordered, and price, availability, delivery, seller, and appearance must be rechecked before buying |
+| Amazon prop examples | [Candidate shortlist and direct product links](THEME.md#amazon-candidate-shortlist) | Listing titles and pack counts reviewed Aug 17; captain set has no featured offer and 18-sash set is non-returnable in the current pages; nothing ordered, so recheck price, seller, availability, delivery, and appearance |
 | Friday lunch | [The Shark on the Harbor](https://www.ocshark.com/) | Fresh/local menu and contact information; retained only as a flexible same-day option, not a firm reservation |
-| Saturday dinner | [Tide Room reservations](https://tideroomoceancity.com/reservations/) and [current menu](https://ashoreoceanfronthotel.com/tide-room-menu/) | 10100 Coastal Highway; upscale menu; Resy sends parties over 5 to 410-524-7500 and says a card is required for groups of 6+; availability for 11 is not shown online |
+| Saturday dinner | [Fager's Island food and reservations](https://www.fagers.com/fooddrink) and [fine-dining policy](https://www.fagers.com/menu2) | 201 60th Street; fine dining after 5 PM; food until 10 PM Saturday; groups of 7+ must call 410-524-5500, so availability for 11 is not shown online |
+| Saturday dinner backups | [32 Palm](https://32palm.com/) and [Ristorante Antipasti](https://www.ristoranteantipasti.com/menu) | 32nd/31st Street alternatives are slightly closer to the dock but create a longer return north to Seacrets; use only if Fager's cannot take 11 |
 | Assateague | [Island information](https://www.assateagueisland.com/island_info/assateague_info.htm) | Maryland hours and $25 seven-day vehicle pass |
 | Axe throwing | [OC Battle Axe](https://ocbattleaxe.com/) | $30/person/hour and listed daily 4:00–9:00 PM hours |
 | Ocean Downs | [Official 2026 racing](https://www.oceandowns.com/racing/) | Published live-racing season ends before this trip |

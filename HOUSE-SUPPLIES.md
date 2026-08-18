@@ -107,6 +107,8 @@ The full prop guidance is in [THEME.md](THEME.md). Keep every item small, wearab
 | Item | Quantity | Owner | Packed / bought |
 | --- | ---: | --- | --- |
 | Casino Pirates wearable prop sets | 14 | TBD | No |
+| Justin captain hat / Groom glasses / Groom sash set | 1 | TBD | No |
+| Groom / Team Groom sashes with pins | 18 | TBD | No |
 | Zip pouch for removed/unused props | 1 | TBD | No |
 | Printed bingo cards | 14 | TBD | No |
 | Pens or markers for bingo | 14 | TBD | No |

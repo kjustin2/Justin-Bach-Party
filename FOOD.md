@@ -1,6 +1,6 @@
 # Food plan
 
-**Decision:** make exactly **one firm restaurant reservation**: Saturday's post-boat dinner at Tide Room. Every other meal stays flexible.
+**Decision:** make exactly **one firm restaurant reservation**: Saturday's post-boat dinner in Fager's Island's fine-dining room. Every other meal stays flexible.
 
 ## Friday feature lunch — The Shark on the Harbor
 
@@ -25,7 +25,7 @@ The Playbook is inside Ocean Downs and can cover dinner without adding another t
 
 [Official restaurant page](https://www.oceandowns.com/dining/the-playbook-sports-bar/)
 
-## Saturday post-boat dinner — Tide Room
+## Saturday post-boat dinner — Fager's Island fine dining
 
 **Request:** Saturday, September 12 at **7:45 PM for 11 people**
 
@@ -33,13 +33,16 @@ The Playbook is inside Ocean Downs and can cover dinner without adding another t
 
 **This is the weekend's one and only firm restaurant reservation.**
 
-Tide Room is the slightly fancy choice: ocean views, cocktails, seafood, steaks, and current mains mostly around $26-$70, with premium cuts higher. It is at Ashore Oceanfront Hotel, **10100 Coastal Highway, Ocean City, MD 21842**.
+Fager's is the best balance of slightly fancy and nearby: waterfront fine dining with seafood, prime rib, cocktails, and wine at **201 60th Street, Ocean City, MD 21842**. It is 15 blocks north of the 45th Street dock and 11 blocks north of Seacrets, making the full route shorter than the 31st/32nd Street alternatives.
 
-- **Call 410-524-7500.** Resy directs parties larger than 5 to call and requires a credit card for groups of 6 or more; no 11-person times are shown online.
-- Ask for 7:45 PM, indoor seating, one-check/split-check policy, gratuity, deposit, and cancellation terms.
-- This is roughly 5 miles north of the 45th Street dock and Seacrets, so use grouped rideshares both ways. It is not a walkable post-boat stop.
+- **Call 410-524-5500.** Fager's requires groups of 7 or more to call; availability for 11 is therefore not shown online.
+- Ask for 7:45 PM in the fine-dining room plus the one-check/split-check policy, gratuity, deposit, and cancellation terms.
+- Fine dining starts after 5:00 PM and food is served until 10:00 PM Saturday.
+- Use a short grouped rideshare or Beach Bus trip from the dock and back to Seacrets; do not move the four cars from the house.
 
-[Official reservations](https://tideroomoceancity.com/reservations/) · [Current dinner menu](https://ashoreoceanfronthotel.com/tide-room-menu/)
+[Official food and reservations](https://www.fagers.com/fooddrink) · [Fine-dining reservation policy](https://www.fagers.com/menu2)
+
+**Backups if Fager's cannot take 11:** 32 Palm at 32nd Street is upscale-casual and open until 10:00 PM daily; Ristorante Antipasti at 31st Street is the more formal Italian choice. Both create a longer trip back north to Seacrets.
 
 ## House meals
 
@@ -58,6 +61,6 @@ All quantities and owners are in [HOUSE-SUPPLIES.md](HOUSE-SUPPLIES.md).
 ## Information to collect
 
 - [ ] Food allergies and dietary restrictions
-- [ ] Alex records Tide Room time and confirmation
+- [ ] Alex records Fager's Island time and confirmation
 - [ ] Large-party deposit/cancellation, gratuity, and check-splitting policy
 - [ ] Whether the group wants Justin's meals covered

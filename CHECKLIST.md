@@ -21,11 +21,12 @@
 
 ## By August 20
 
-- [ ] Alex: call Tide Room at **410-524-7500** and request the **only firm restaurant booking** — Saturday 7:45 PM for 11. Parties over 5 cannot book online; a credit card is required.
+- [ ] Alex: call Fager's Island at **410-524-5500** and request the **only firm restaurant booking** — Saturday 7:45 PM in the fine-dining room for 11. Groups of 7+ must call.
 - [ ] Keep Friday lunch and Saturday lunch flexible; do not create additional restaurant reservations.
 - [ ] Choose Ocean Downs for Thursday night (preferred) or Friday night (fallback); confirm grouped rideshares and remind everyone to bring ID.
 - [ ] Assign and buy the small wearable Casino Pirates prop kit in `THEME.md`.
 - [ ] Pick from the Amazon prop candidates in `THEME.md`; verify current price, availability, delivery, and Airbnb-safe setup before buying.
+- [ ] Buy the Justin captain-hat/glasses/sash set and the 18-sash Team Groom set if their live price, seller, delivery, and return terms are acceptable.
 - [ ] Print 14 bingo cards: 12 attendees plus 2 spares.
 - [ ] Assign every alcohol, food, snack, ice, and supply row in `HOUSE-SUPPLIES.md`.
 - [ ] Buy and pack at least 150 red Solo cups plus 4 permanent markers; do not rely on the house's cups.
@@ -41,7 +42,7 @@
 - [ ] Recheck OC Rock & Ride's exact fireworks/drone time and concert schedule.
 - [ ] Recheck Seacrets' September 10–12 calendar and ticket requirements.
 - [ ] Check the Ocean City / Assateague weather forecast.
-- [ ] Reconfirm the single Tide Room dinner reservation and its large-party payment/cancellation terms.
+- [ ] Reconfirm the single Fager's Island dinner reservation and its large-party payment/cancellation terms.
 - [ ] Reconfirm golf tee times, rental clubs, and the non-golfer meetup.
 - [ ] Confirm The Playbook and Friday lunch remain unreserved options.
 - [ ] Reconfirm all boat waivers and final passenger count.

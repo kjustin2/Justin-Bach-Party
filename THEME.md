@@ -11,14 +11,15 @@ The theme is **Casino Pirates**. We are **not ordering group shirts**. The goal 
 | Lightweight gold bead/coin necklaces | 14 | TBD | Not bought |
 | Clip-on pirate earrings | 8-10 pairs | TBD | Not bought |
 | Temporary pirate/casino tattoos | 1 multipack | TBD | Not bought |
-| Nicer captain bandana or small hat for Justin | 1 | TBD | Not bought |
+| Justin captain hat, Groom glasses, and Groom sash | 1 set | TBD | Planned; listing check needed |
+| Groom / Team Groom sashes with pins | 18 pack | TBD | Planned; use 12 and pack 6 spares |
 | Zip pouch for unused props | 1 | TBD | Not bought |
 
 Buy simple items that can come off quickly and fit in a pocket. Bring 14 sets so the 12 attendees have choices plus a couple of spares.
 
 ## Amazon candidate shortlist
 
-These links were reviewed on **August 17, 2026** as examples, not approved purchases. Recheck the live price, availability, delivery date, seller, and final appearance before buying.
+These links were reviewed on **August 17, 2026**. Most are examples; the two items marked **planned purchase** are intended buys if their live price, seller, availability, delivery, and return terms check out.
 
 | Candidate | Fit for this trip | Current direction |
 | --- | --- | --- |
@@ -29,6 +30,8 @@ These links were reviewed on **August 17, 2026** as examples, not approved purch
 | [36 casino bead necklaces](https://www.amazon.com/dp/B0CPDWGH6Y) | Wearable, compact, and enough for the group | **Best match** for the existing theme plan |
 | [6 neon bachelor-party beer-pong balls](https://www.amazon.com/dp/B09KF1Y9H4) | Works with the folding table and red cups | Good indoor house-game add-on; keep all drinking games inside |
 | [48 acrylic 1.2 oz shot cups](https://www.amazon.com/dp/B0BYYCZQN5) | Plastic mini cups; no glass | Optional house-use add-on; assign cleanup and do not take them to venues |
+| [Justin captain's hat, Groom glasses, and Groom sash](https://www.amazon.com/dp/B0D4271DYQ) | Compact three-piece groom set that fits the boat theme | **Planned purchase**, but the listing currently has no featured offer; verify seller, price, and delivery first |
+| [18 sashes and pins: 1 Groom to Be + 17 Team Groom](https://www.amazon.com/dp/B0FRMQSWNF) | Enough for all 12 attendees plus 6 spares | **Planned purchase**; listing currently says non-returnable, and Justin should wear only one of the two included groom sashes |
 
 Do not tape or hang decorations until Justin confirms the host rules and a damage-free attachment method. Balloons, garlands, and oversized décor are not part of the default purchase plan.
 
