@@ -10,11 +10,11 @@ This file is safe to paste into the group chat. Send the exact rental address se
 >
 > Casino Pirates. Friday golf. Casino. BikeFest weekend. A private Tipsy Tikis cruise. Seacrets. One last proper send before Justin gets married.
 >
-> **Thursday:** arrive, grill, pool tournament, and settle in
+> **Thursday:** arrive, grill, then preferred Ocean Downs casino night
 >
-> **Friday:** morning golf + a separate non-golf track + Ocean City fireworks/drone show + nightlife
+> **Friday:** morning golf + a separate non-golf track + Ocean City fireworks/drone show + nightlife; casino fallback if Thursday does not work
 >
-> **Saturday:** Ocean Downs casino + private tiki cruise + Seacrets
+> **Saturday:** open/recovery morning + private tiki cruise + the one reserved dinner + Seacrets
 >
 > **Sunday:** breakfast and head home
 >
@@ -32,7 +32,7 @@ This file is safe to paste into the group chat. Send the exact rental address se
 
 ## Final-week reminder
 
-> One week until Ocean City. Check your carpool, golf/club status, and supply assignment. Bring your ID, swimsuit, light jacket, charger, boat-tip cash, and any assigned small Casino Pirates props. The rental is our registered-guests-only home base: party energy stays indoors, the yard stays quiet, and the Airbnb rules still apply everywhere. Friday and Saturday transportation will be rideshare + Beach Bus, so nobody drives after drinking. Final itinerary and address are pinned above.
+> One week until Ocean City. Check your carpool, golf/club status, and supply assignment. Bring your ID, swimsuit, light jacket, charger, boat-tip cash, and any assigned small Casino Pirates props. The rental is our registered-guests-only home base: party energy stays indoors, the yard stays quiet, and the Airbnb rules still apply everywhere. Casino and nightlife transportation will be rideshare + Beach Bus where available, so nobody drives after drinking. Final itinerary and address are pinned above.
 
 ## Taglines
 

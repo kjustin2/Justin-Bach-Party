@@ -16,9 +16,9 @@ Inside does not mean “anything goes.” It means music, pool, cards, jokes, an
 
 Air conditioning is cheaper than eviction. Close the doors, close the windows, and keep speakers away from exterior walls.
 
-## Rule 4: Thirteen Friday, then twelve
+## Rule 4: Twelve Friday, then eleven
 
-Friday night peaks at 13; Joe leaves Saturday and nobody takes his place. Only the confirmed overnight group enters the rental. Meet new friends at the bars; say goodbye to them at the bars.
+Friday night peaks at 12; Joe leaves Saturday and nobody takes his place. Only the confirmed overnight group enters the rental. Meet new friends at the bars; say goodbye to them at the bars.
 
 ## Rule 5: Four cars means four cars
 

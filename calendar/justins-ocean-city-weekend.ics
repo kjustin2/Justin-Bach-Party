@@ -58,13 +58,13 @@ LOCATION:Baja Amusements\, Ocean City\, MD
 DESCRIPTION:Baja go-karts, beach/Boardwalk, or another low-key option approximately 10:30 AM-12:30 PM. Meet the Friday group for lunch at 1:15 PM.
 END:VEVENT
 BEGIN:VEVENT
-UID:oceandowns-20260912@justin-bachelor-party
+UID:oceandowns-20260910@justin-bachelor-party
 DTSTAMP:20260816T160000Z
-DTSTART;TZID=America/New_York:20260912T103000
-DTEND;TZID=America/New_York:20260912T133000
-SUMMARY:Ocean Downs casino and Playbook lunch
+DTSTART;TZID=America/New_York:20260910T203000
+DTEND;TZID=America/New_York:20260911T003000
+SUMMARY:Ocean Downs casino — preferred night
 LOCATION:10218 Racetrack Road\, Berlin\, MD 21811
-DESCRIPTION:Joe leaves Saturday and is not on this 11-person plan. Grouped rideshares. Set a gambling limit before arrival. Alex is helping reserve lunch for noon.
+DESCRIPTION:Thursday is the preferred casino night; Friday night is the fallback. Casino and sportsbook are open until 2:00 AM. Use grouped rideshares\, bring ID\, and set a gambling limit. No Saturday-morning casino block.
 END:VEVENT
 BEGIN:VEVENT
 UID:tipsytikis-20260912@justin-bachelor-party

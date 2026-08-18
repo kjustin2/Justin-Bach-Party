@@ -83,9 +83,9 @@ Takoda is not part of this Friday-morning poll because he arrives Friday night.
 
 ## Timing
 
-A nine-hole round should take about 2-2.5 hours. An 8:00-8:30 AM start should finish around 10:30-11:00 AM, leaving time to return to the house or meet the non-golfers before the **1:15 PM lunch at The Shark on the Harbor**. Friday lunch is 11 people because Takoda has not arrived yet.
+A nine-hole round should take about 2-2.5 hours. An 8:00-8:30 AM start should finish around 10:30-11:00 AM, leaving time to return to the house or meet the non-golfers before the **flexible 1:15 PM lunch target**. The Shark is the first walk-in/call-ahead option, not a reservation. Friday lunch is 11 people because Takoda has not arrived yet.
 
-An 18-hole round normally takes 4-4.5 hours and is now a fallback, not the target. Do not book 18 holes without confirming the finish and travel time still protect the lunch reservation.
+An 18-hole round normally takes 4-4.5 hours and is now a fallback, not the target. Do not book 18 holes without confirming the finish and travel time still protect the flexible lunch window.
 
 Korrey and Nick Grunsby can sleep later. Their final activity and transportation stay open until Justin completes the poll above. Takoda arrives Friday night.
 

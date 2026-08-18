@@ -10,7 +10,7 @@
 
 [Open directions in Google Maps](https://www.google.com/maps/dir/?api=1&destination=8628+Saddlecreek+Drive%2C+Berlin%2C+MD+21811)
 
-This private repository is the single planning hub for Justin Kramer's bachelor weekend. **Alex Kramer (best man)** is helping Justin book golf and restaurants.
+This private repository is the single planning hub for Justin Kramer's bachelor weekend. **Alex Kramer (best man)** is helping Justin book golf and the one firm dinner reservation.
 
 ## Current plan
 
@@ -19,7 +19,8 @@ This private repository is the single planning hub for Justin Kramer's bachelor 
 | Group | 12 attending including Justin; Joe leaves Saturday, so 11 remain for the Saturday boat/night |
 | Theme | **Casino Pirates** - small wearable props, no group shirts |
 | Friday morning | **Nine-hole golf** to control cost and timing; non-golfers have a separate option |
-| Saturday | Ocean Downs, Tipsy Tikis, dinner, and Seacrets |
+| Casino | **Thursday night preferred; Friday night fallback. No Saturday-morning casino block.** |
+| Saturday | Open morning, flexible lunch, Tipsy Tikis, the one reserved dinner, and Seacrets |
 | Stay | **8628 Saddlecreek Drive, Berlin, MD 21811**; Thu 4:00 PM check-in, Sun 10:00 AM checkout; 4 cars maximum |
 
 ## Alex: start here
@@ -27,7 +28,7 @@ This private repository is the single planning hub for Justin Kramer's bachelor 
 | Priority | Owner | Where |
 | --- | --- | --- |
 | Call for 3 consecutive advance nine-hole Friday morning tee times for the 9 golfers | Alex | [GOLF.md](GOLF.md) |
-| Request Friday and Saturday restaurant reservations | Alex | [FOOD.md](FOOD.md) |
+| Book only the Saturday post-boat dinner reservation | Alex | [FOOD.md](FOOD.md) |
 | Confirm the Friday golfer transportation plan | Alex + Justin | [GUESTS.md](GUESTS.md) |
 | Expand the boat booking from 4 to 11 and send waivers | Justin | [LOGISTICS.md](LOGISTICS.md) |
 | Confirm Joe's Saturday departure ride/time | Justin + Joe | [GUESTS.md](GUESTS.md) |
@@ -40,7 +41,7 @@ Phone numbers and starting areas are in the internal [CONTACTS.md](CONTACTS.md).
 - [GUESTS.md](GUESTS.md) - attendance, arrivals, carpools, and boat roster
 - [CONTACTS.md](CONTACTS.md) - internal phone and location directory
 - [GOLF.md](GOLF.md) - RSVPs, course choices, clubs, and booking steps
-- [FOOD.md](FOOD.md) - restaurant targets and reservation checklist
+- [FOOD.md](FOOD.md) - flexible meal options and the one dinner reservation
 - [LOGISTICS.md](LOGISTICS.md) - lodging, boat, transportation, and costs
 - [THEME.md](THEME.md) - Casino Pirates props and what to avoid
 - [HOUSE-SUPPLIES.md](HOUSE-SUPPLIES.md) - food, drinks, props, and supply assignments
@@ -60,7 +61,9 @@ Print **14 copies** of [the finished bingo card](output/pdf/justins-bachelor-wee
 - [ ] Reserve golf-club rentals for Alex and Jesse, reconfirm the other 7 golfers are bringing clubs, then finalize drivers and payment.
 - [ ] Confirm Joe's Thursday arrival and Saturday departure details.
 - [ ] Update the Airbnb reservation from 14 to 12 guests, or confirm no amendment is required.
-- [ ] Book the three group restaurant targets in [FOOD.md](FOOD.md).
+- [ ] Book the one firm dinner reservation at 45th Street Taphouse; keep every other meal flexible.
+- [ ] Confirm Thursday night or Friday night for Ocean Downs; do not schedule it Saturday morning.
+- [ ] Choose the Casino Pirates props from the reviewed [candidate list](THEME.md); recheck price and availability before buying.
 - [ ] Expand Tipsy Tikis to 11 passengers and complete every waiver.
 - [ ] Assign the Casino Pirates prop kit and house supplies.
 - [ ] Choose the lodging cost split for the partial stays.

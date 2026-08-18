@@ -69,7 +69,7 @@ The tiki cruise already includes beer, wine, spirits, soft drinks, and water. Do
 | Fruit | Bananas, apples, berries | Local grocery run | No |
 | Frozen breakfast potatoes | 2 large bags | Local grocery run | No |
 
-Friday lunch, Saturday casino lunch, Saturday post-boat dinner, and Sunday optional brunch are restaurant meals. Do not buy full house meals for those slots.
+Friday lunch and Saturday pre-boat lunch are flexible; only Saturday's post-boat dinner is reserved. Keep enough sandwich/leftover food available so the group does not need another reservation.
 
 ## Snacks and late-night food
 
@@ -115,4 +115,4 @@ The full prop guidance is in [THEME.md](THEME.md). Keep every item small, wearab
 
 Paste this into the group chat:
 
-> Reply with: (1) your top two drinks, (2) any food allergy, (3) whether your golf RSVP is still correct, (4) whether you are bringing clubs or need rentals, and (5) one snack you actually want. Reply as soon as possible so Alex can book golf and restaurants.
+> Reply with: (1) your top two drinks, (2) any food allergy, (3) whether your golf RSVP is still correct, (4) whether you are bringing clubs or need rentals, and (5) one snack you actually want. Reply as soon as possible so Alex can book golf and the one firm dinner reservation.

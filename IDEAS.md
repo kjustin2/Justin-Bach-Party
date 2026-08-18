@@ -1,12 +1,12 @@
 # Activity shortlist
 
-Research checked August 8, 2026. Prices and schedules can change; recheck before booking.
+Research checked August 8, 2026; Ocean Downs hours refreshed August 17, 2026. Prices and schedules can change; recheck before booking.
 
 ## Best fits
 
 | Rank | Activity | Why it fits this group | Current planning detail | Best slot |
 | ---: | --- | --- | --- | --- |
-| 1 | Ocean Downs Casino | The entire group likes it, it is close to the rental, and it has gaming, a sportsbook, drinks, and food | Sportsbook lists 8:00 AM–2:00 AM daily; The Playbook opens noon Saturday | Saturday 10:30 AM–1:30 PM |
+| 1 | Ocean Downs Casino | The entire group likes it, it is close to the rental, and it has gaming, a sportsbook, drinks, and food | Casino/sportsbook 8:00 AM–2:00 AM daily; table games 10:00 AM–2:00 AM | Thursday night preferred; Friday night fallback |
 | 2 | Nine-hole golf / non-golf split | Lets the golfers play without consuming the whole morning or forcing golf on everyone else | Golfers seek the cheapest advance nine-hole block, using distance from the house as the tiebreaker; non-golf choice is decided by poll | Friday morning |
 | 3 | Seacrets | Firm nightlife choice next to the Saturday boat dock | 49th Street; Red Not Chili Peppers Sep 10 and Black Hole Sons Sep 11, 9:00 PM–1:30 AM | Saturday after dinner |
 | 4 | OC Rock & Ride 9/11 show | Date-specific free spectacle during this exact weekend | Fireworks and drone tribute at the Inlet around sunset Fri Sep 11; final time TBA | Friday evening |
@@ -20,7 +20,7 @@ Research checked August 8, 2026. Prices and schedules can change; recheck before
 
 ## Recommended choice
 
-Friday morning nine-hole golf is chosen. Alex should finalize the 9 golfers and book three consecutive advance nine-hole tee times; Korrey and Nick Grunsby choose their non-golf track through Justin's poll while Takoda arrives Friday night. Make Ocean Downs the 11-person Saturday block after Joe leaves, followed by the booked boat, dinner at 45th Street Taphouse, and Seacrets.
+Friday morning nine-hole golf is chosen. Alex should finalize the 9 golfers and book three consecutive advance nine-hole tee times; Korrey and Nick Grunsby choose their non-golf track through Justin's poll while Takoda arrives Friday night. Put Ocean Downs on Thursday night if possible, with Friday night as the fallback. Keep Saturday morning open before the booked boat, the weekend's one reserved dinner at 45th Street Taphouse, and Seacrets.
 
 ## Other viable options
 
@@ -30,7 +30,7 @@ Split the Friday daytime group into two rooms, start at the same time, and compa
 
 ### Ocean Downs details
 
-Ocean Downs is at 10218 Racetrack Road in Berlin. It is 21+ and offers gaming plus a sportsbook listed as open 8:00 AM–2:00 AM daily. The Playbook Sports Bar opens at noon Saturday, takes reservations, and currently advertises all-day Saturday drink specials. Live racing ends September 7 in the published 2026 schedule, so this is a casino/sportsbook visit, not a live-horse-racing visit.
+Ocean Downs is at 10218 Racetrack Road in Berlin. It is 21+. The official gaming page lists casino and sportsbook hours as **8:00 AM–2:00 AM daily** and table games as **10:00 AM–2:00 AM daily**. The Playbook is open Thursday 4:00–10:00 PM and Friday 4:00–11:00 PM, with the bar open later. These hours support a Thursday/Friday-night visit; there is no Saturday-morning casino plan. Live racing ends September 7 in the published 2026 schedule, so this is a casino/sportsbook visit, not a live-horse-racing visit.
 
 Set a personal gambling cap before entering. Gambling money should be separate from lodging, food, rideshare, and boat money.
 

@@ -5,7 +5,7 @@ Use this file for trip coordination only. It contains personal phone numbers and
 | Person | Phone | Starting area | Trip note |
 | --- | --- | --- | --- |
 | Justin Kramer | (570) 772-2563 | Ashburn, VA | Groom/host; final owner for lodging and boat |
-| Alex Kramer | (570) 772-9242 | Media, PA | Best man; helping book golf and restaurants |
+| Alex Kramer | (570) 772-9242 | Media, PA | Best man; helping book golf and the one firm dinner reservation |
 | Brandon Toops | (585) 512-5701 | Tysons Corner, VA | DMV Car A draft |
 | Connor Johnson | (585) 645-4143 | Fairfax, VA | DMV Car B draft |
 | Eric Tucker | (571) 216-0214 | Fairfax, VA | DMV Car B draft |

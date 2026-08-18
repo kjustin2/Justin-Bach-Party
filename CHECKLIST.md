@@ -21,10 +21,11 @@
 
 ## By August 20
 
-- [ ] Alex: request Friday 1:15 PM lunch for 11 at The Shark on the Harbor.
-- [ ] Alex: reserve Saturday noon lunch for 11 at The Playbook inside Ocean Downs.
-- [ ] Alex: reserve Saturday 7:15 PM dinner near 45th Street for 11.
+- [ ] Alex: reserve the **only firm restaurant booking** — Saturday 7:15 PM dinner at 45th Street Taphouse for 11.
+- [ ] Keep Friday lunch and Saturday lunch flexible; do not create additional restaurant reservations.
+- [ ] Choose Ocean Downs for Thursday night (preferred) or Friday night (fallback); confirm grouped rideshares and remind everyone to bring ID.
 - [ ] Assign and buy the small wearable Casino Pirates prop kit in `THEME.md`; no group shirts.
+- [ ] Pick from the Amazon prop candidates in `THEME.md`; verify current price, availability, delivery, and Airbnb-safe setup before buying.
 - [ ] Print 14 bingo cards: 12 attendees plus 2 spares.
 - [ ] Assign every alcohol, food, snack, ice, and supply row in `HOUSE-SUPPLIES.md`.
 - [ ] Buy and pack at least 150 red Solo cups plus 4 permanent markers; do not rely on the house's cups.
@@ -33,16 +34,16 @@
 - [ ] Assign all beds and decide whether to bring an air mattress.
 - [ ] Build the grocery and drinks list.
 - [ ] Choose one rideshare coordinator for each night.
-- [ ] Confirm Thursday Seacrets concert interest before buying any tickets.
+- [ ] Decide whether Thursday Seacrets still fits after choosing the casino night; do not overbook the evening.
 
 ## Week of September 7
 
 - [ ] Recheck OC Rock & Ride's exact fireworks/drone time and concert schedule.
 - [ ] Recheck Seacrets' September 10–12 calendar and ticket requirements.
 - [ ] Check the Ocean City / Assateague weather forecast.
-- [ ] Reconfirm both dinner reservations.
+- [ ] Reconfirm the single 45th Street Taphouse dinner reservation.
 - [ ] Reconfirm golf tee times, rental clubs, and the non-golfer meetup.
-- [ ] Reconfirm The Playbook and 45th Street Taphouse reservations.
+- [ ] Reconfirm 45th Street Taphouse; The Playbook and Friday lunch remain unreserved options.
 - [ ] Reconfirm all boat waivers and final passenger count.
 - [ ] Reconfirm Airbnb check-in instructions and house checkout list.
 - [ ] Share the final itinerary and rental address only in the private group chat.
