@@ -2,6 +2,8 @@
 
 **Decision:** make exactly **one firm restaurant reservation**: Saturday's post-boat dinner in Fager's Island's fine-dining room. Every other meal stays flexible.
 
+**Booked.** Fager's Island, Saturday, September 12 at **8:00 PM for 11 people**. No card was required to hold the reservation. Dress code is casual — **shorts and a polo**.
+
 ## Friday feature lunch — The Shark on the Harbor
 
 **Flexible target:** Friday, September 11 around 1:15 PM for up to 11 people — **no advance reservation**
@@ -27,7 +29,7 @@ The Playbook is inside Ocean Downs and can cover dinner without adding another t
 
 ## Saturday post-boat dinner — Fager's Island fine dining
 
-**Request:** Saturday, September 12 at **7:45 PM for 11 people**
+**Booked:** Saturday, September 12 at **8:00 PM for 11 people**
 
 **Booking lead:** Alex
 
@@ -35,14 +37,15 @@ The Playbook is inside Ocean Downs and can cover dinner without adding another t
 
 Fager's is the best balance of slightly fancy and nearby: waterfront fine dining with seafood, prime rib, cocktails, and wine at **201 60th Street, Ocean City, MD 21842**. It is 15 blocks north of the 45th Street dock and 11 blocks north of Seacrets, making the full route shorter than the 31st/32nd Street alternatives.
 
-- **Call 410-524-5500.** Fager's requires groups of 7 or more to call; availability for 11 is therefore not shown online.
-- Ask for 7:45 PM in the fine-dining room plus the one-check/split-check policy, gratuity, deposit, and cancellation terms.
+- Booked by phone (410-524-5500); groups of 7+ must call, so availability was not visible online.
 - Fine dining starts after 5:00 PM and food is served until 10:00 PM Saturday.
+- **Dress code: shorts and a polo** — no jacket or collared-shirt-only requirement despite the "fine dining" label.
+- **No card was required to hold the table**, so there is no deposit to track — just show up.
 - Use a short grouped rideshare or Beach Bus trip from the dock and back to Seacrets; do not move the four cars from the house.
 
 [Official food and reservations](https://www.fagers.com/fooddrink) · [Fine-dining reservation policy](https://www.fagers.com/menu2)
 
-**Backup if Fager's cannot take 11:** Ristorante Antipasti at 31st Street, the more formal Italian choice. It creates a longer trip back north to Seacrets.
+**Backup if the Fager's reservation falls through:** Ristorante Antipasti at 31st Street, the more formal Italian choice. It creates a longer trip back north to Seacrets.
 
 ## House meals
 
@@ -61,6 +64,6 @@ All quantities and owners are in [HOUSE-SUPPLIES.md](HOUSE-SUPPLIES.md).
 ## Information to collect
 
 - [ ] Food allergies and dietary restrictions
-- [ ] Alex records Fager's Island time and confirmation
-- [ ] Large-party deposit/cancellation, gratuity, and check-splitting policy
+- [x] Alex records Fager's Island time and confirmation
+- [ ] Gratuity and check-splitting policy (no deposit/cancellation terms — no card was required)
 - [ ] Whether the group wants Justin's meals covered

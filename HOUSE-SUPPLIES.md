@@ -37,6 +37,19 @@ Red Solo cups are a firm requirement, not an optional backup. Buy enough packs t
 
 The tiki cruise already includes beer, wine, spirits, soft drinks, and water. Do not bring glass or arrive heavily pregamed.
 
+## Drinking games
+
+House-only, like the beer pong balls in [THEME.md](THEME.md#amazon-candidate-shortlist). Links reviewed **August 17, 2026**; nothing ordered yet.
+
+| Item | Fit | Owner | Packed / bought |
+| --- | --- | --- | --- |
+| [Shot glass roulette (16 glasses, 2 balls)](https://www.amazon.com/dp/B015EOWTNW) | Casino-themed centerpiece game, matches the Casino Pirates theme | TBD | No |
+| [Drink-a-Palooza party ball](https://www.amazon.com/dp/B07LHJX4SR) | Plays up to 20; good whole-group filler between other games | TBD | No |
+| [Drinking dice, 6-pack](https://www.amazon.com/dp/B0CG5CMPL3) | Pocket-size backup for the boat or a slow stretch at the house | TBD | No |
+| [Digital breathalyzer, 10 mouthpieces](https://www.amazon.com/dp/B0H9K61622) | Fun to pass around with the games; also a real check before anyone claims a rideshare or drives Sunday | TBD | No |
+
+Plastic cups only — no real shot glasses at the boat or Seacrets. Keep all drinking games inside the house. A breathalyzer reading is a rough estimate, not a legal guarantee — still call a rideshare for anyone who reads high or seems off.
+
 ## Hydration
 
 | Item | Starting quantity | Owner | Packed / bought |
@@ -113,6 +126,7 @@ The Airbnb lists trash bags, paper towels, dishware, dishwasher, and laundry det
 | Phone charging station / power strips | 2 | TBD | No |
 | **White folding tables** | **1 required; 2 preferred** | Connor: confirm 1; second owner TBD | No |
 | Cards / poker chips / pool-tournament bracket | 1 set each | TBD | No |
+| Bluetooth speaker(s) | At least 1 for the house; a second waterproof one for the boat/beach is a bonus | TBD | No |
 
 Connor should have at least one white folding table. Confirm its folded size fits in DMV Car B, and find a second table/owner if cargo space allows.
 

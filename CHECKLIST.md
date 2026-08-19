@@ -15,13 +15,13 @@
 - [ ] Choose a lodging/boat cost split and payment deadline.
 - [ ] Decide whether the group covers Justin's share.
 - [ ] Alex: reserve 2 rental sets for Alex and Jesse and reconfirm that the other 7 golfers are bringing their own clubs.
-- [ ] Alex: call the [golf shortlist](GOLF.md) for all-in **nine-hole** quotes, then reserve 3 consecutive advance tee times at the cheapest available course; use distance from the house to break a price tie. Use 18 holes only as a schedule-safe fallback.
+- [ ] Alex: call the [golf shortlist](GOLF.md) for all-in **nine-hole** quotes, then reserve 3 consecutive advance tee times (3 golfers per group) at the cheapest available course; use distance from the house to break a price tie. Use 18 holes only as a schedule-safe fallback.
 - [ ] Justin: ask Korrey and Nick Grunsby what they want to do Friday morning instead of golf; record each person's choice and transportation plan in [GOLF.md](GOLF.md) and update the itinerary.
 - [x] Add Takoda's phone number to `CONTACTS.md`.
 
 ## By August 20
 
-- [ ] Alex: call Fager's Island at **410-524-5500** and request the **only firm restaurant booking** — Saturday 7:45 PM in the fine-dining room for 11. Groups of 7+ must call.
+- [x] Alex: call Fager's Island and book the **only firm restaurant reservation** — Saturday **8:00 PM**, fine-dining room, 11 people. No card required to hold it; dress code is shorts and a polo.
 - [ ] Keep Friday lunch and Saturday lunch flexible; do not create additional restaurant reservations.
 - [ ] Choose Ocean Downs for Thursday night (preferred) or Friday night (fallback); confirm grouped rideshares and remind everyone to bring ID.
 - [ ] Assign and buy the small wearable Casino Pirates prop kit in `THEME.md`.
@@ -43,7 +43,7 @@
 - [ ] Recheck OC Rock & Ride's exact fireworks/drone time and concert schedule.
 - [ ] Recheck Seacrets' September 10–12 calendar and ticket requirements.
 - [ ] Check the Ocean City / Assateague weather forecast.
-- [ ] Reconfirm the single Fager's Island dinner reservation and its large-party payment/cancellation terms.
+- [ ] Reconfirm the single Fager's Island dinner reservation (8:00 PM, 11 people) and its gratuity/check-splitting policy.
 - [ ] Reconfirm golf tee times, rental clubs, and the non-golfer meetup.
 - [ ] Confirm The Playbook and Friday lunch remain unreserved options.
 - [ ] Reconfirm all boat waivers and final passenger count.

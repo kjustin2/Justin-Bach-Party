@@ -7,7 +7,7 @@
 - **9 Yes responses**
 - **3 No responses:** Takoda, Korrey, and Nick Grunsby
 
-Plan for **3 consecutive nine-hole tee times** unless the final check drops the group to 8 or fewer.
+Plan for **3 consecutive nine-hole tee times, 3 golfers per group**, unless the final check drops the group to 8 or fewer.
 
 | Person | Golfing? | Availability / note | Bringing clubs? | Rental set? | Paid / confirmed |
 | --- | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ Plan for **3 consecutive nine-hole tee times** unless the final check drops the 
 ## Alex's booking checklist
 
 1. Reserve 2 rental sets for Alex and Jesse, and reconfirm that the other 7 golfers are bringing their own clubs.
-2. Call every viable course below and ask for **three consecutive advance nine-hole tee times** near 8:00-8:30 AM. The online calendars mostly sell 18 holes only.
+2. Call every viable course below and ask for **three consecutive advance nine-hole tee times, 3 golfers per group**, near 8:00-8:30 AM. The online calendars mostly sell 18 holes only.
 3. Confirm that the course will reserve all 9 golfers in advance rather than making the group rely on same-day nine-hole availability.
 4. Get the **all-in nine-hole price per golfer**, including required cart and booking fees. Keep optional club rentals separate.
 5. Book the **cheapest available nine-hole option**. If two quotes are the same, book the one closer to the house.

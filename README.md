@@ -20,7 +20,7 @@ This private repository is the single planning hub for Justin Kramer's bachelor 
 | Theme | **Casino Pirates** - small wearable props, no group shirts |
 | Friday morning | **Nine-hole golf** to control cost and timing; non-golfers have a separate option |
 | Casino | **Thursday night preferred; Friday night fallback. No Saturday-morning casino block.** |
-| Saturday | Open morning, Tipsy Tikis, Fager's Island dinner, and Seacrets |
+| Saturday | Open morning, Tipsy Tikis, Fager's Island dinner (**booked, 8:00 PM, 11 people, shorts-and-polo dress code**), and Seacrets |
 | Tipsy Tikis pickup + drop-off | **Same dock both ways:** 45th St. Taphouse Bar & Grille, 4507 Coastal Highway, Ocean City, MD 21842; meet 5:10 PM, return about 7:00 PM |
 | Stay | **8628 Saddlecreek Drive, Berlin, MD 21811**; Thu 4:00 PM check-in, Sun 10:00 AM checkout; 4 cars maximum |
 
@@ -28,8 +28,7 @@ This private repository is the single planning hub for Justin Kramer's bachelor 
 
 | Priority | Owner | Where |
 | --- | --- | --- |
-| Call for 3 consecutive advance nine-hole Friday morning tee times for the 9 golfers | Alex | [GOLF.md](GOLF.md) |
-| Call Fager's Island for the only firm dinner reservation | Alex | [FOOD.md](FOOD.md) |
+| Call for 3 consecutive advance nine-hole Friday morning tee times (3 groups of 3) for the 9 golfers | Alex | [GOLF.md](GOLF.md) |
 | Confirm the Friday golfer transportation plan | Alex + Justin | [GUESTS.md](GUESTS.md) |
 | Expand the boat booking from 4 to 11 and send waivers | Justin | [LOGISTICS.md](LOGISTICS.md) |
 | Confirm Joe's Saturday departure ride/time | Justin + Joe | [GUESTS.md](GUESTS.md) |
@@ -61,7 +60,7 @@ Print **14 copies** of [the finished bingo card](output/pdf/justins-bachelor-wee
 
 ## Immediate open items
 
-Use the single [planning checklist](CHECKLIST.md). The critical calls are golf, Fager's Island, the 11-person boat expansion, Joe's travel, and the Airbnb guest-count correction.
+Use the single [planning checklist](CHECKLIST.md). The critical calls are golf, the 11-person boat expansion, Joe's travel, and the Airbnb guest-count correction.
 
 ## Privacy
 

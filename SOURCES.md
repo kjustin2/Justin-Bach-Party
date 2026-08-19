@@ -1,6 +1,6 @@
 # Verified sources
 
-Last comprehensive research pass: **August 8, 2026**. Golf, Ocean Downs, props, and Saturday dinner refreshed **August 17, 2026**.
+Last comprehensive research pass: **August 8, 2026**. Golf, Ocean Downs, props, and Saturday dinner refreshed **August 17, 2026**. Saturday dinner booked **August 19, 2026**.
 
 | Topic | Source | What was verified |
 | --- | --- | --- |
@@ -24,9 +24,10 @@ Last comprehensive research pass: **August 8, 2026**. Golf, Ocean Downs, props, 
 | Assateague Greens | Current map/directory listings and 410-213-7526 | Nearby short-course lead only; operating status and current price are unresolved and must be confirmed by phone |
 | Ocean Downs | [Official gaming hours](https://www.oceandowns.com/gaming/), [sportsbook](https://www.oceandowns.com/sports-book/), and [The Playbook](https://www.oceandowns.com/dining/the-playbook-sports-bar/) | Casino/sportsbook 8:00 AM–2:00 AM daily; table games 10:00 AM–2:00 AM daily; The Playbook Thursday 4:00–10:00 PM and Friday 4:00–11:00 PM |
 | Amazon prop examples | [Candidate shortlist and direct product links](THEME.md#amazon-candidate-shortlist) | Listing titles and pack counts reviewed Aug 17; captain set has no featured offer and 18-sash set is non-returnable in the current pages; nothing ordered, so recheck price, seller, availability, delivery, and appearance |
+| Amazon drinking-game examples | [Drinking games list](HOUSE-SUPPLIES.md#drinking-games) | Listing titles, player counts, and breathalyzer specs reviewed Aug 17; nothing ordered, so recheck price, seller, availability, and delivery |
 | Friday lunch | [The Shark on the Harbor](https://www.ocshark.com/) | Fresh/local menu and contact information; retained only as a flexible same-day option, not a firm reservation |
-| Saturday dinner | [Fager's Island food and reservations](https://www.fagers.com/fooddrink) and [fine-dining policy](https://www.fagers.com/menu2) | 201 60th Street; fine dining after 5 PM; food until 10 PM Saturday; groups of 7+ must call 410-524-5500, so availability for 11 is not shown online |
-| Saturday dinner backup | [Ristorante Antipasti](https://www.ristoranteantipasti.com/menu) | 31st Street alternative is slightly closer to the dock but creates a longer return north to Seacrets; use only if Fager's cannot take 11 |
+| Saturday dinner | [Fager's Island food and reservations](https://www.fagers.com/fooddrink) and [fine-dining policy](https://www.fagers.com/menu2) | Booked by phone Aug 19: 8:00 PM for 11 people; no card required to hold it; dress code is shorts and a polo; 201 60th Street; fine dining after 5 PM; food until 10 PM Saturday |
+| Saturday dinner backup | [Ristorante Antipasti](https://www.ristoranteantipasti.com/menu) | 31st Street alternative is slightly closer to the dock but creates a longer return north to Seacrets; use only if the Fager's reservation falls through |
 | Assateague | [Island information](https://www.assateagueisland.com/island_info/assateague_info.htm) | Maryland hours and $25 seven-day vehicle pass |
 | Axe throwing | [OC Battle Axe](https://ocbattleaxe.com/) | $30/person/hour and listed daily 4:00–9:00 PM hours |
 | Ocean Downs | [Official 2026 racing](https://www.oceandowns.com/racing/) | Published live-racing season ends before this trip |

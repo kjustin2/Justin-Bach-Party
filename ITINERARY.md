@@ -46,10 +46,10 @@ Joe leaves Saturday and is not on the 11-person boat/night roster. Confirm his d
 | **4:05 PM** | **Rideshares leave the Airbnb** | The dock asks for arrival 15–20 minutes early. This buffer accounts for BikeFest traffic. |
 | **5:10 PM** | **Tipsy Tikis pickup: 45th St. Taphouse dock** | 4507 Coastal Highway. All 11 passengers present, sober enough to board, IDs ready. |
 | **5:30–7:00 PM** | **Tipsy Tikis private cruise — booked** | Departs from and returns to the same 45th Street dock. Alcohol and non-alcoholic drinks included; no bathroom onboard. |
-| 7:00–7:35 PM | **Tipsy Tikis drop-off and ride north** | Disembark at the same 45th Street dock, then keep the group together to Fager's Island by rideshare or Beach Bus. |
-| 7:45–9:15 PM | **Fager's Island fine-dining room — reservation required** | Slightly fancy waterfront dinner for 11. Alex must call because groups of 7+ cannot book online. |
-| 9:15–9:30 PM | **Ride south to Seacrets** | Return 11 blocks to 49th Street by grouped rideshare or Beach Bus. |
-| 9:30 PM onward | **Seacrets — firm plan** | Main nightlife event. Use grouped rideshares back to Berlin. |
+| 7:00–8:00 PM | **Tipsy Tikis drop-off and ride north** | Disembark at the same 45th Street dock, then keep the group together to Fager's Island (60th Street) by rideshare or Beach Bus. |
+| **8:00–9:30 PM** | **Fager's Island fine-dining room — booked for 11** | Dress code is casual: shorts and a polo. No card was required to hold the table. |
+| 9:30–9:45 PM | **Ride south to Seacrets** | Return to 49th Street by grouped rideshare or Beach Bus. |
+| 9:45 PM onward | **Seacrets — firm plan** | Main nightlife event. Use grouped rideshares back to Berlin. |
 | Late | Grouped rideshares back to Berlin | Keep the four parked cars at the rental. |
 
 ## Sunday, September 13 — checkout
