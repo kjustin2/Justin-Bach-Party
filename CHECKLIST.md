@@ -34,8 +34,11 @@
 - [ ] Send `HOUSE-RULES.md` to the group and get an acknowledgment.
 - [ ] Assign all beds and decide whether to bring an air mattress.
 - [ ] Build the grocery and drinks list.
+- [ ] Post the bring-your-own-alcohol list in the group chat so the house does not end up with six handles of vodka and no mixers; Nick Grunsby is bringing two cases of beer and a handle of tequila.
+- [ ] Name the one or two cars doing the Thursday store run and give them [STORES.md](STORES.md); the Berlin liquor store closes at 7:00 PM Thursday and no Maryland grocery store sells alcohol.
 - [ ] Justin: name one shopper for the required Thursday recovery pickup; buy 24 Vitaminwaters, 24 electrolyte servings, bananas, applesauce, saltines, and soup/broth.
 - [ ] Choose one rideshare coordinator for each night.
+- [ ] Decide whether to run the Friday [Boardwalk bar crawl](BAR-CRAWL.md) or the Friday casino fallback; do not attempt both, and name one leader per stop.
 - [ ] Decide whether Thursday Seacrets still fits after choosing the casino night; do not overbook the evening.
 
 ## Week of September 7

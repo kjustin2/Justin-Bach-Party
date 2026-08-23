@@ -7,7 +7,7 @@ This plan keeps one real anchor per day, leaves room for a large group to move s
 | Time | Plan | Notes |
 | --- | --- | --- |
 | 12:30–1:30 PM | Carpools depart | Exact pickup windows depend on each car. Avoid a late Route 50 arrival. |
-| 3:15–3:45 PM | Grocery / ice stop near Berlin | One shared run; do not send four cars to the store. |
+| 3:15–3:45 PM | Grocery / ice stop near Berlin | One shared run; do not send four cars to the store. Stores, hours, and run order in [STORES.md](STORES.md) — hit the liquor store first, it closes at 7:00 PM. |
 | 4:00 PM | Airbnb check-in | Keypad entry. Park only the four assigned vehicles. |
 | 4:00–6:30 PM | Rooms, unpack, pool table, fire up the grill | Assign beds before drinks. Keep the home a quiet lodging base. |
 | 6:30–8:00 PM | Grill dinner at the house | Lowest-friction arrival meal. |
@@ -28,7 +28,7 @@ This plan keeps one real anchor per day, leaves room for a large group to move s
 | 4:30 PM | Group rideshares to downtown Ocean City | BikeFest weekend: build in extra time and avoid parking multiple cars. |
 | 5:30 PM | Drinks / light food near the Boardwalk and Inlet | Lunch is intentionally substantial; grab something light before the show. |
 | Around sunset (~7:10 PM) | **OC Rock & Ride 9/11 fireworks and drone show** | Official event is at the Inlet; exact show time is still TBA. |
-| 8:00 PM onward | Boardwalk / BikeFest music, optional Seacrets, **or Friday casino fallback** | If Ocean Downs did not happen Thursday, use grouped rideshares for a Friday-night casino visit. Otherwise stay with the Boardwalk/Seacrets plan; do not force every option into one night. |
+| 8:00 PM onward | Boardwalk / BikeFest music (sample crawl route in [BAR-CRAWL.md](BAR-CRAWL.md)), optional Seacrets, **or Friday casino fallback** | If Ocean Downs did not happen Thursday, use grouped rideshares for a Friday-night casino visit. Otherwise stay with the Boardwalk/Seacrets plan; do not force every option into one night. |
 | Late | Grouped rideshares back to Berlin | Nobody drives from Ocean City after drinking. |
 
 **Takoda:** arrives from Muncy Friday night and is not golfing. Car D goes directly to the Airbnb and joins the group later only if timing and sober transportation make sense.

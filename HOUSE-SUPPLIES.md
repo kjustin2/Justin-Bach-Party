@@ -17,6 +17,8 @@ This spreads the load and fits the four-car parking plan.
 
 ## Alcohol and bar
 
+**Nick Grunsby's plan, and the default for the group: everyone brings their own alcohol and then shares it with everyone else.** Grunsby is bringing **two cases of beer and a handle of tequila**. The table below is therefore a ceiling for what the house should end up with, not a shopping list for one car — post what you are bringing in the group chat so the group does not arrive with six handles of vodka and no mixers.
+
 First collect everyone's top two drink choices. Do not buy five varieties nobody wants.
 
 | Item | Starting quantity | Owner | Packed / bought |
@@ -36,6 +38,8 @@ First collect everyone's top two drink choices. Do not buy five varieties nobody
 Red Solo cups are a firm requirement, not an optional backup. Buy enough packs to reach at least 150 total and use the markers for names.
 
 The tiki cruise already includes beer, wine, spirits, soft drinks, and water. Do not bring glass or arrive heavily pregamed.
+
+Store addresses, hours, and the Thursday run order are in [STORES.md](STORES.md). Maryland grocery stores and Walmart sell **no** alcohol — anything alcoholic has to come from a licensed liquor store, and the Berlin one closes at 7:00 PM Thursday.
 
 ## Drinking games
 

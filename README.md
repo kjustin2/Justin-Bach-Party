@@ -47,6 +47,8 @@ Phone numbers and starting areas are in the internal [CONTACTS.md](CONTACTS.md).
 - [LOGISTICS.md](LOGISTICS.md) - lodging, boat, transportation, and costs
 - [THEME.md](THEME.md) - Casino Pirates props and what to avoid
 - [HOUSE-SUPPLIES.md](HOUSE-SUPPLIES.md) - food, drinks, props, and supply assignments
+- [STORES.md](STORES.md) - grocery and liquor stores near the house, with hours and the Thursday run order
+- [BAR-CRAWL.md](BAR-CRAWL.md) - sample Friday Boardwalk bar crawl around the Inlet fireworks
 - [CHECKLIST.md](CHECKLIST.md) - remaining work by deadline
 - [HOUSE-RULES.md](HOUSE-RULES.md) - house and safety rules
 - [IDEAS.md](IDEAS.md) - researched backup activities
