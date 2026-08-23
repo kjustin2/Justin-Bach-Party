@@ -34,6 +34,12 @@ Ocean Downs is at 10218 Racetrack Road in Berlin. It is 21+. The official gaming
 
 Set a personal gambling cap before entering. Gambling money should be separate from lodging, food, rideshare, and boat money.
 
+### Drunk mile
+
+A one-mile lap where the group drinks a beer every quarter mile — four beers, four stops, slowest finisher buys the next round. It works as a Boardwalk lap or as a bar-to-bar version folded into the Friday bar crawl, with one bar per quarter mile so nobody is drinking in the open.
+
+Rules that keep it sane: walking only, no driving after, no running, one buddy per person, water between stops, and anyone can drop out and still count as a finisher. Skip it entirely on a Saturday boat day.
+
 ### Historic Berlin food / brewery crawl
 
 A calmer Sunday or Thursday option close to the house. It avoids Ocean City parking and BikeFest traffic but should not replace the main Friday/Saturday plans.
